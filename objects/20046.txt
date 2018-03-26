@@ -29,8 +29,8 @@ numSprites=1
 spriteID=1026
 pos=0.000000,-28.000000
 rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
+hFlip=1
+color=0.492958,0.474378,0.229121
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
