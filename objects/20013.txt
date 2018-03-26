@@ -1,5 +1,5 @@
 id=20013
-Hot Forged Crucible#copper
+Hot Forged Crucible#copper chunk
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
