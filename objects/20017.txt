@@ -1,4 +1,4 @@
-id=20077
+id=20017
 Copper Chunk
 containable=0
 containSize=1,vertSlotRot=0.000000
