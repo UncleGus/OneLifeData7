@@ -10,7 +10,6 @@ for (const d of data) {
         fileContents.match('#') || fileContents.match('@')) {
             console.log(`Skipping file ${fileName} with ${fileContents}`);
     } else {
-        console.log(`Creating file ${fileName} with ${fileContents}`);
         fs.writeFileSync(fileName, fileContents);
     }
 }
