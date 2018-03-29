@@ -1,5 +1,5 @@
 id=20147
-Hot Bronze Adze Head on Flat Rock
+Hot Bronze Ax Head on Flat Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -54,7 +54,7 @@ spriteID=802
 pos=2.000000,-32.000000
 rot=-0.250000
 hFlip=0
-color=1.000000,0.723468,0.521127
+color=1.000000,0.916683,0.830986
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
