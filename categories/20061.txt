@@ -10,4 +10,4 @@ numObjects=11
 20052
 20055
 20059
-blunt copper shears
+20070
