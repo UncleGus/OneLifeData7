@@ -1,5 +1,5 @@
-id=20057
-Hot Copper Pick Head on Flat Rock
+id=20161
+Hot Bronze Pick Head on Flat Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

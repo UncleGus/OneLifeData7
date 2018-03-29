@@ -1,5 +1,5 @@
-id=20057
-Hot Copper Pick Head on Flat Rock
+id=20157
+Hot Bronze Hammer Head on Flat Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -34,24 +34,24 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1032
-pos=1.000000,-28.000000
+spriteID=809
+pos=1.000000,-33.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1033
-pos=1.000000,-28.000000
+spriteID=808
+pos=1.000000,-33.000000
 rot=0.000000
 hFlip=0
 color=1.000000,0.360000,0.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1033
-pos=1.000000,-28.000000
+spriteID=808
+pos=1.000000,-33.000000
 rot=0.000000
 hFlip=0
 color=1.000000,0.723468,0.521127
