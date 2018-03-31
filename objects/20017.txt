@@ -27,7 +27,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
 spriteID=144
-pos=0.000000,0.000000
+pos=0.000000,-31.000000
 rot=0.000000
 hFlip=0
 color=1.000000,0.422535,0.000000
