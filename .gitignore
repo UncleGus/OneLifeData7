@@ -1,2 +1,4 @@
 
 *.fcz
+objects/objectList.txt
+transitions/transitionList.txt
