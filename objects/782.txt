@@ -1,5 +1,5 @@
-id=621
-Filled Small Trash Pit with Stakes
+id=782
+Filled Empty Trash Pit
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -22,20 +22,12 @@ clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=826:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+creationSoundInitialOnly=1
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
+numSprites=1
 spriteID=986
 pos=2.000000,5.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=350
-pos=37.000000,-21.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
