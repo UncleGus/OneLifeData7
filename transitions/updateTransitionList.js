@@ -5,7 +5,7 @@ console.log('Getting objects from list file');
 const objectList = fs.readFileSync('../objects/objectList.txt').toString().split('\n');
 
 const objectIdMap = {
-    0: 'Empty hand'
+    0: 'Nothing'
 };
 
 for (const object of objectList) {
