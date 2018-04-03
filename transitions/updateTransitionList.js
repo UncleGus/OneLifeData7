@@ -5,9 +5,7 @@ console.log('Getting objects from list file');
 const objectList = fs.readFileSync('../objects/objectList.txt').toString().split('\n');
 
 const objectIdMap = {
-    '0': 'Nothing',
-    '-1': 'Nothing',
-    '-2': 'Nothing'
+    0: 'Empty hand'
 };
 
 for (const object of objectList) {
@@ -31,9 +29,21 @@ for (const file of fileList) {
         const match = file.match(/([^_]+)?_([^_]+)?(_.*)?\.txt/);
         const fileContents = fs.readFileSync(file).toString().split(' ');
         // console.log(`Adding transition ${match[1]} on ${match[2]}: ${objectIdMap[match[1]]} on ${objectIdMap[match[2]]}`);
-        listString += `${objectIdMap[match[1]]};`; // actor
-        if (match[2] == '0' && match[3] && match[3] == '_LT') { // special case for kill transition
+        if (match[1] == -2) { // actor
+            listString += 'Player of any age;'; // actor
+        } else if (match[1] == -1) {
+            listString += 'Time decay;';
+        } else {
+            listString += `${objectIdMap[match[1]]};`;
+        }
+        if (match[2] == '0') { // special case for kill transition
             listString += 'Player;';
+        } else if (match[2] == '-1') {
+            if (Number(fileContents[1]) == 0) {
+                listString += 'Generic transition;';
+            } else {
+                listString += 'Empty ground;';
+            }
         } else {
             listString += `${objectIdMap[match[2]]};`; // target
         }
@@ -48,20 +58,38 @@ for (const file of fileList) {
         } else {
             listString += ';';
         }
-        for (let i = 2; i < fileContents.length && i < 10; i++) {
+        for (let i = 2; i < fileContents.length && i < 9; i++) {
             listString += `${fileContents[i]};`;
             // autoDecaySeconds, actorMinUseFraction, targetMinUseFraction, reverseUseActorFlag,
             // reverseUseTargetFlag, move, desiredMoveDist,
-            // actorBreakChance
         }
-        if (fileContents[10]) {
-            listString += `${objectIdMap[fileContents[10]]};`; // brokenActor
+        if (fileContents[9]) { // actorBreakChance
+            if (Number(fileContents[9]) == 0) {
+                listString += `;`;
+            } else {
+                listString += `${fileContents[9]};`;
+            }
         }
-        if (fileContents[11]) {
-            listString += `${fileContents[11]};`; // targetBreakChance
+        if (fileContents[10]) { // brokenActor
+            if (Number(fileContents[10]) == 0) {
+                listString += `;`;
+            } else {
+                listString += `${objectIdMap[fileContents[10]]};`;
+            }
         }
-        if (fileContents[12]) {
-            listString += `${objectIdMap[fileContents[12]]};`; // brokenTarget
+        if (fileContents[11]) { // targetBreakChance
+            if (Number(fileContents[11]) == 0) {
+                listString += `;`;
+            } else {
+                listString += `${fileContents[11]};`;
+            }
+        }
+        if (fileContents[12]) { // brokenTarget
+            if (Number(fileContents[12]) == 0) {
+                listString += `;`;
+            } else {
+                listString += `${objectIdMap[fileContents[12]]};`;
+            }
         }
         listString += '\n';
     }
