@@ -30,14 +30,6 @@ spriteID=801
 pos=40.000000,-27.000000
 rot=0.250000
 hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=783
-pos=21.000000,-30.000000
-rot=0.250000
-hFlip=0
 color=1.000000,0.422535,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
@@ -50,6 +42,14 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=20004
+pos=40.000000,-7.000000
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
@@ -57,4 +57,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=14
