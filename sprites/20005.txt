@@ -1,1 +1,1 @@
-AxeHandle 0 4 -3
+HammerHandle 0 4 -3
