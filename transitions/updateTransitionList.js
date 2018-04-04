@@ -25,73 +25,79 @@ const fileList = execSync('ls').toString().split('\n');
 
 let listString = '';
 for (const file of fileList) {
+    let thisString = '';
     if (file && file.match(/_/)) {
         const match = file.match(/([^_]+)?_([^_]+)?(_.*)?\.txt/);
         const fileContents = fs.readFileSync(file).toString().split(' ');
         // console.log(`Adding transition ${match[1]} on ${match[2]}: ${objectIdMap[match[1]]} on ${objectIdMap[match[2]]}`);
         if (match[1] == -2) { // actor
-            listString += 'Player of any age;'; // actor
+            thisString += 'Player of any age;'; // actor
         } else if (match[1] == -1) {
-            listString += 'Time decay;';
+            thisString += 'Time decay;';
         } else {
-            listString += `${objectIdMap[match[1]]};`;
+            thisString += `${objectIdMap[match[1]]};`;
         }
         if (match[2] == '0') { // special case for kill transition
-            listString += 'Player;';
+            thisString += 'Player;';
         } else if (match[2] == '-1') {
             if (Number(fileContents[1]) == 0) {
-                listString += 'Generic transition;';
+                thisString += 'Generic transition;';
             } else {
-                listString += 'Empty ground;';
+                thisString += 'Empty ground;';
             }
         } else {
-            listString += `${objectIdMap[match[2]]};`; // target
+            thisString += `${objectIdMap[match[2]]};`; // target
         }
-        listString += `${objectIdMap[fileContents[0]]};`; // new actor
-        listString += `${objectIdMap[fileContents[1]]};`; // new target
+        thisString += `${objectIdMap[fileContents[0]]};`; // new actor
+        thisString += `${objectIdMap[fileContents[1]]};`; // new target
         if (match[3]) { // last use
             if (match[3] == '_LA') {
-                listString += 'Actor;';
+                thisString += 'Actor;';
             } else if (match[3] == '_LT' || match[3] == '_L') {
-                listString += 'Target;';
+                thisString += 'Target;';
             }
         } else {
-            listString += ';';
+            thisString += ';';
         }
         for (let i = 2; i < fileContents.length && i < 9; i++) {
-            listString += `${fileContents[i]};`;
+            thisString += `${fileContents[i]};`;
             // autoDecaySeconds, actorMinUseFraction, targetMinUseFraction, reverseUseActorFlag,
             // reverseUseTargetFlag, move, desiredMoveDist,
         }
         if (fileContents[9]) { // actorBreakChance
             if (Number(fileContents[9]) == 0) {
-                listString += `;`;
+                thisString += `;`;
             } else {
-                listString += `${fileContents[9]};`;
+                thisString += `${fileContents[9]};`;
             }
         }
         if (fileContents[10]) { // brokenActor
             if (Number(fileContents[10]) == 0) {
-                listString += `;`;
+                thisString += `;`;
             } else {
-                listString += `${objectIdMap[fileContents[10]]};`;
+                thisString += `${objectIdMap[fileContents[10]]};`;
             }
         }
         if (fileContents[11]) { // targetBreakChance
             if (Number(fileContents[11]) == 0) {
-                listString += `;`;
+                thisString += `;`;
             } else {
-                listString += `${fileContents[11]};`;
+                thisString += `${fileContents[11]};`;
             }
         }
         if (fileContents[12]) { // brokenTarget
             if (Number(fileContents[12]) == 0) {
-                listString += `;`;
+                thisString += `;`;
             } else {
-                listString += `${objectIdMap[fileContents[12]]};`;
+                thisString += `${objectIdMap[fileContents[12]]};`;
             }
         }
-        listString += '\n';
+        thisString += '\n';
+        if (!thisString.match('undefined')) {
+            listString += thisString;
+        } else {
+            console.log(`Problem with ${file}`);
+        }
     }
 }
 
