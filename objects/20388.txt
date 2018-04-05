@@ -46,7 +46,7 @@ spriteID=20012
 pos=-2.000000,-12.000000
 rot=0.000000
 hFlip=0
-color=0.478873,0.478873,0.478873
+color=0.352113,0.278072,0.252926
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
