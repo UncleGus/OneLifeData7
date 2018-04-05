@@ -1,4 +1,4 @@
-id=20198
+id=20307
 @ Knife
 containable=1
 containSize=1,vertSlotRot=0.000000
