@@ -1,5 +1,5 @@
 id=20190
-Unforged Crucible in Wooden Tongs#bronze chunks
+Crucible With Bronze Chunks In Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

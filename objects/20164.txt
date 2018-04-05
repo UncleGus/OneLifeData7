@@ -1,5 +1,5 @@
 id=20164
-Hot Crucible in Wooden Tongs#bronze ingot
+Crucible With Molten Bronze In Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

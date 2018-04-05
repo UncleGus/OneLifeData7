@@ -1,5 +1,5 @@
 id=20018
-Cool Crucible in Wooden Tongs#copper ingot
+Crucible With Copper Ingot In Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

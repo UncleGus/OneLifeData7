@@ -1,5 +1,5 @@
 id=20100
-Hot Crucible in Wooden Tongs#tin ingot
+Crucible With Molten Tin In Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
