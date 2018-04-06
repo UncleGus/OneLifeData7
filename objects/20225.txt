@@ -26,7 +26,7 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=20027
+spriteID=20044
 pos=-18.000000,-22.000000
 rot=0.000000
 hFlip=0
