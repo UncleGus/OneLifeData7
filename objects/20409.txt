@@ -1,5 +1,5 @@
 id=20409
-Wet Clay Mold
+@ Wet Clay Mold
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
