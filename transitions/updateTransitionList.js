@@ -101,4 +101,5 @@ for (const file of fileList) {
     }
 }
 
+console.log('Writing list file');
 fs.writeFileSync('transitionList.txt', listString);
