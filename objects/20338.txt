@@ -42,11 +42,11 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=781
+spriteID=802
 pos=-1.000000,-32.000000
 rot=0.000000
 hFlip=0
-color=0.684396,0.718310,0.374330
+color=0.633803,0.453381,0.321365
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
