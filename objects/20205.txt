@@ -1,5 +1,5 @@
 id=20205
-Firing Forge#pipe
+Firing Forge With Pipe
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

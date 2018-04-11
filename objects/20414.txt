@@ -1,5 +1,5 @@
 id=20414
-Forge with Charcoal#pipe added
+Charcoal-Filled Forge With Pipe#pipe added
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

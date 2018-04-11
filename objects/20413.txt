@@ -1,5 +1,5 @@
 id=20413
-Forge with Charcoal#bellows added
+Charcoal-Filled Forge With Bellows#bellows added
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
