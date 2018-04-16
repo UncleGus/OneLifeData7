@@ -7,10 +7,10 @@ for (const d of data) {
     const fileName = `${fileWithoutExtension}.txt`;
     const fileContents = d.replace(`${fileWithoutExtension}\t`, '');
     const objectList = fileContents.split(';').filter(o => o != 0);
-    let fileString = `parentID=${fileWithoutExtension}\nnumObjects=${objectList.length}\n`;
+    let fileString = `parentID=${fileWithoutExtension}\nnumObjects=${objectList.length}`;
     objectCount = 0;
     for (const o of objectList) {
-        fileString += `${o}\n`;
+        fileString += `\n${o}`;
     }
     if (fileName.match('#') || fileName.match('@') ||
         fileString.match('#') || fileString.match('@')) {
