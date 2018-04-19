@@ -1,5 +1,5 @@
-id=20561
-Hot Copper Ingot On Copper Anvil
+id=20592
+Hot Copper Ingot On Copper Anvil#ax
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=14
@@ -25,7 +25,7 @@ sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
+numSprites=3
 spriteID=20065
 pos=2.000000,-29.000000
 rot=0.000000
@@ -42,6 +42,14 @@ color=1.000000,0.723468,0.521127
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=20107
+pos=1.000000,3.000000
+rot=-0.075000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
@@ -49,4 +57,4 @@ frontFootIndex=-1
 numUses=0
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=18
