@@ -1,5 +1,5 @@
-id=20127
-Bronze Hammer
+id=20613
+Bronze Hammer#forged
 containable=1
 containSize=1,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3
