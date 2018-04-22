@@ -14,7 +14,11 @@ for (const d of data) {
     const objectFileContents = copiedObjectFileContents.replace(matchCopiedObjectId[0], `id=${nextObjectNumber}`)
         .replace(matchCopiedObjectName[1], objectName);
 
-    fs.writeFileSync(`${nextObjectNumber}.txt`, objectFileContents);
-    nextObjectNumber += 1;
+    if (matchCopiedObjectName[1] == objectName) {
+        console.log(`Skipping file; ${matchCopiedObjectName[1]} needs name updated`);
+    } else {
+        fs.writeFileSync(`${nextObjectNumber}.txt`, objectFileContents);
+        nextObjectNumber += 1;
+    }
 }
 fs.writeFileSync('nextObjectNumber.txt', nextObjectNumber);
