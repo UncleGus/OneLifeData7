@@ -1352,3 +1352,88 @@
 20677;Bronze Saw Blade#forged
 20678;Oiled Bronze File Blank#forged
 20679;Bronze Chisel#forged,just pulled
+20680;@ Hot Copper Ingot On Bronze Anvil
+20681;Copper Adze Head On Bronze Anvil
+20682;Copper Ax Head On Bronze Anvil
+20683;Copper Blade Blank On Bronze Anvil
+20684;Copper Chisel On Bronze Anvil
+20685;Copper File Blank On Bronze Anvil
+20686;Copper Froe Blade On Bronze Anvil
+20687;Copper Hammer Head On Bronze Anvil
+20688;Copper Ingot On Bronze Anvil
+20689;Copper Pick Head On Bronze Anvil
+20690;Copper Shovel Head On Bronze Anvil
+20691;Hot Copper Adze Head On Bronze Anvil
+20692;Hot Copper Ax Head On Bronze Anvil
+20693;Hot Copper Blade Blank On Bronze Anvil
+20694;Hot Copper Chisel On Bronze Anvil
+20695;Hot Copper File Blank On Bronze Anvil
+20696;Hot Copper Froe Blade On Bronze Anvil
+20697;Hot Copper Hammer Head On Bronze Anvil
+20698;Hot Copper Ingot On Bronze Anvil
+20699;Hot Copper Ingot On Bronze Anvil#adze
+20700;Hot Copper Ingot On Bronze Anvil#adze,working
+20701;Hot Copper Ingot On Bronze Anvil#ax
+20702;Hot Copper Ingot On Bronze Anvil#ax,working
+20703;Hot Copper Ingot On Bronze Anvil#blade
+20704;Hot Copper Ingot On Bronze Anvil#blade,working
+20705;Hot Copper Ingot On Bronze Anvil#chisel
+20706;Hot Copper Ingot On Bronze Anvil#chisel,working
+20707;Hot Copper Ingot On Bronze Anvil#file
+20708;Hot Copper Ingot On Bronze Anvil#file,working
+20709;Hot Copper Ingot On Bronze Anvil#froe
+20710;Hot Copper Ingot On Bronze Anvil#froe,working
+20711;Hot Copper Ingot On Bronze Anvil#hammer
+20712;Hot Copper Ingot On Bronze Anvil#hammer,working
+20713;Hot Copper Ingot On Bronze Anvil#pick
+20714;Hot Copper Ingot On Bronze Anvil#pick,working
+20715;Hot Copper Ingot On Bronze Anvil#shovel
+20716;Hot Copper Ingot On Bronze Anvil#shovel,working
+20717;Hot Copper Pick Head On Bronze Anvil
+20718;Hot Copper Shovel Head On Bronze Anvil
+20719;@ Hot Bronze Ingot On Bronze Anvil
+20720;Bronze Adze Head On Bronze Anvil
+20721;Bronze Ax Head On Bronze Anvil
+20722;Bronze Blade Blank On Bronze Anvil
+20723;Bronze Chisel On Bronze Anvil
+20724;Bronze File Blank On Bronze Anvil
+20725;Bronze Froe Blade On Bronze Anvil
+20726;Bronze Hammer Head On Bronze Anvil
+20727;Bronze Ingot On Bronze Anvil
+20728;Bronze Pick Head On Bronze Anvil
+20729;Bronze Shovel Head On Bronze Anvil
+20730;Hot Bronze Adze Head On Bronze Anvil
+20731;Hot Bronze Ax Head On Bronze Anvil
+20732;Hot Bronze Blade Blank On Bronze Anvil
+20733;Hot Bronze Chisel On Bronze Anvil
+20734;Hot Bronze File Blank On Bronze Anvil
+20735;Hot Bronze Froe Blade On Bronze Anvil
+20736;Hot Bronze Hammer Head On Bronze Anvil
+20737;Hot Bronze Ingot On Bronze Anvil
+20738;Hot Bronze Ingot On Bronze Anvil#adze
+20739;Hot Bronze Ingot On Bronze Anvil#adze,working
+20740;Hot Bronze Ingot On Bronze Anvil#ax
+20741;Hot Bronze Ingot On Bronze Anvil#ax,working
+20742;Hot Bronze Ingot On Bronze Anvil#blade
+20743;Hot Bronze Ingot On Bronze Anvil#blade,working
+20744;Hot Bronze Ingot On Bronze Anvil#chisel
+20745;Hot Bronze Ingot On Bronze Anvil#chisel,working
+20746;Hot Bronze Ingot On Bronze Anvil#file
+20747;Hot Bronze Ingot On Bronze Anvil#file,working
+20748;Hot Bronze Ingot On Bronze Anvil#froe
+20749;Hot Bronze Ingot On Bronze Anvil#froe,working
+20750;Hot Bronze Ingot On Bronze Anvil#hammer
+20751;Hot Bronze Ingot On Bronze Anvil#hammer,working
+20752;Hot Bronze Ingot On Bronze Anvil#pick
+20753;Hot Bronze Ingot On Bronze Anvil#pick,working
+20754;Hot Bronze Ingot On Bronze Anvil#shovel
+20755;Hot Bronze Ingot On Bronze Anvil#shovel,working
+20756;Hot Bronze Pick Head On Bronze Anvil
+20757;Hot Bronze Shovel Head On Bronze Anvil
+20758;Two Bronze Blades#forged
+20759;Bronze Chisel On Flat Rock#forged
+20760;Bronze Froe Wedged In Hardwood Log#forged
+20761;Bronze Froe Wedged In Log#forged
+20762;Boards with Bronze Froe#forged
+20763;Hardwood Boards with Bronze Froe#forged
+20764;Boards with Bronze Froe
