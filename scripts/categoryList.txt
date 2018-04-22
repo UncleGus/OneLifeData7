@@ -1,0 +1,58 @@
+@ Scrap Copper;Copper Adze Head;Copper Ax Head;Copper Blade Blank;Copper Chisel;Copper File Blank;Copper Froe Blade;Copper Hammer Head;Copper Pick Head;Copper Shovel Head;Copper Blade;Copper File;Copper Saw Blade;Oiled Copper File Blank;Blunt Copper Chisel;Copper Adze Head#forged;Copper Ax Head#forged;Copper Blade Blank#forged;Copper Chisel#forged;Copper File Blank#forged;Copper Froe Blade#forged;Copper Hammer Head#forged;Copper Pick Head#forged;Copper Shovel Head#forged;Copper Blade#forged;Copper File#forged;Copper Saw Blade#forged;Oiled Copper File Blank#forged;Blunt Copper Chisel#forged
+@ Standard Log Producing Tree;White Pine Tree with Needles;Lombardy Poplar Tree;Maple Tree;Bald Cypress Tree;Willow Tree;White Pine Tree;Yew Tree;Lombardy Poplar Tree#Branch;Yew Tree#Branch;Maple Tree#Branch
+@ Fence;Fence#corner;Fence#north south;Fence#west east
+@ Soft Adobe Wall;Soft Adobe Wall#corner;Soft Adobe Wall#north south;Soft Adobe Wall#west east
+@ Diggable Dead Berry Bush;Dry Gooseberry Bush;Dead Gooseberry Bush
+@ Scrap Bronze;Bronze Adze Head;Bronze Ax Head;Bronze Blade Blank;Bronze Chisel;Bronze File Blank;Bronze Froe Blade;Bronze Hammer Head;Bronze Pick Head;Bronze Shovel Head;Bronze Blade;Bronze File;Bronze Saw Blade;Oiled Bronze File Blank;Blunt Bronze Chisel;Bronze Adze Head#forged;Bronze Ax Head#forged;Bronze Blade Blank#forged;Bronze Chisel#forged;Bronze File Blank#forged;Bronze Froe Blade#forged;Bronze Hammer Head#forged;Bronze Pick Head#forged;Bronze Shovel Head#forged;Bronze Blade#forged;Bronze File#forged;Bronze Saw Blade#forged;Oiled Bronze File Blank#forged;Blunt Bronze Chisel#forged
+@ Adze;Steel Adze;Copper Adze;Bronze Adze;Copper Adze#forged;Bronze Adze#forged
+@ Ax;Steel Ax;Copper Ax;Bronze Ax;Copper Ax#forged;Bronze Ax#forged
+@ Bow Saw;Bow Saw;Copper Bow Saw;Bronze Bow Saw;Copper Bow Saw#forged;Bronze Bow Saw#forged
+@ Hammer;Smithing Hammer;Copper Hammer;Bronze Hammer;Copper Hammer#forged;Bronze Hammer#forged
+@ Sharp Cutting Tool;Flint Chip;Knife;Copper Knife;Bronze Knife;Copper Knife#forged;Bronze Knife#forged
+@ Pick;Steel Mining Pick;Copper Pick;Bronze Pick;Copper Pick#forged;Bronze Pick#forged
+@ Shears;Shears;Copper Shears;Bronze Shears;Copper Shears#forged;Bronze Shears#forged
+@ Shovel;Shovel;Copper Shovel;Bronze Shovel;Copper Shovel#forged;Bronze Shovel#forged
+@ Warm Forge;Firing Forge With Bellows;Firing Forge With Pipe
+@ Knife;Knife;Copper Knife;Bronze Knife;Copper Knife#forged;Bronze Knife#forged
+@ Sharpening Tool;Flint Chip;Steel File;Whetstone;Bronze File;Copper File;Copper File#forged;Bronze File#forged
+@ Bashing Tool;Stone;Copper Hammer;Bronze Hammer;Copper Hammer#forged;Bronze Hammer#forged
+@ Tin Tool In Clay Mold;Tin Hammer Head In Clay Mold;Tin Ax Head In Clay Mold;Tin Adze Head In Clay Mold;Tin Froe Blade In Clay Mold;Tin Chisel In Clay Mold;Tin Blade Blank In Clay Mold;Tin Pick Head In Clay Mold;Tin File Blank In Clay Mold;Tin Shovel Head In Clay Mold
+@ Tin Tool In Stone Mold;Tin Adze Head In Stone Mold;Tin Ax Head In Stone Mold;Tin Blade Blank In Stone Mold;Tin Chisel In Stone Mold;Tin File Blank In Stone Mold;Tin Froe Blade In Stone Mold;Tin Hammer Head In Stone Mold;Tin Pick Head In Stone Mold;Tin Shovel Head In Stone Mold
+@ Clay Firer;Firing Adobe Kiln;Firing Forge With Bellows;Firing Forge With Pipe
+@ Wet Clay Mold;Wet Clay Adze Mold;Wet Clay Ax Mold;Wet Clay Blade Mold;Wet Clay Chisel Mold;Wet Clay File Mold;Wet Clay Froe Mold;Wet Clay Hammer Mold;Wet Clay Pick Mold;Wet Clay Shovel Mold
+@ Fire;Fire;Large Slow Fire;Large Fast Fire;Burning Adobe Oven;Firing Adobe Kiln;Firing Forge With Bellows;Firing Forge With Pipe
+@ Digging Tool;Sharp Stone;Copper Shovel;Bronze Shovel;Copper Shovel#forged;Bronze Shovel#forged
+@ Hacking Tool;Sharp Stone;Bronze Knife;Copper Knife;Copper Knife#forged;Bronze Knife#forged
+@ Stripping Tool;Sharp Stone;Copper Chisel;Bronze Chisel;Copper Chisel#forged;Bronze Chisel#forged;Copper Chisel#just pulled;Copper Chisel#forged,just pulled;Bronze Chisel#forged,just pulled
+@ Charcoal-Filled Forge With Bellows;Charcoal-Filled Forge With Bellows#bellows added;Charcoal-Filled Forge With Bellows#charcoal added
+@ Charcoal-Filled Forge With Pipe;Charcoal-Filled Forge With Pipe#charcoal added;Charcoal-Filled Forge With Pipe#pipe added
+@ Forge With Bellows;Forge With Bellows#bellows added;Forge With Bellows#charcoal removed
+@ Forge With Pipe;Forge With Pipe#charcoal removed;Forge With Pipe#pipe added
+@ Adobe Kiln with Charcoal;Adobe Kiln with Charcoal;Adobe Kiln With Charcoal#bellows removed;Adobe Kiln With Charcoal#pipe removed
+@ Adobe Kiln;Adobe Kiln;Adobe Kiln#bellows removed;Adobe Kiln#pipe removed
+@ Rough Cutting Tool;Sharp Stone;Flint Chip;Knife;Copper Knife;Bronze Knife;Copper Knife#forged;Bronze Knife#forged
+@ Chisel;Bronze Chisel;Copper Chisel;Copper Chisel#forged;Bronze Chisel#forged;Copper Chisel#just pulled;Bronze Chisel#just pulled;Copper Chisel#forged,just pulled;Bronze Chisel#forged,just pulled
+@ Stone Mold;Stone Adze Mold;Stone Ax Mold;Stone Blade Mold;Stone Chisel Mold;Stone File Mold;Stone Froe Mold;Stone Hammer Mold;Stone Pick Mold;Stone Shovel Mold
+@ Anvil Mold Frame#empty,open;Anvil Mold Frame#empty,open,disassembled;Anvil Mold Frame#empty,open,assembled
+@ Copper Chunk;Copper Chunk;Copper Chunk#just pulled;Copper Chunk#from anvil
+@ Bronze Chunk;Bronze Chunk;Bronze Chunk#just pulled;Bronze Chunk#from anvil
+@ Tin Chunk;Tin Chunk;Tin Chunk#just pulled;Tin Chunk#from anvil
+@ Hot Copper Ingot On Copper Anvil;Hot Copper Ingot On Copper Anvil#pick;Hot Copper Ingot On Copper Anvil#shovel;Hot Copper Ingot On Copper Anvil#blade;Hot Copper Ingot On Copper Anvil#file;Hot Copper Ingot On Copper Anvil#froe;Hot Copper Ingot On Copper Anvil#adze;Hot Copper Ingot On Copper Anvil#chisel;Hot Copper Ingot On Copper Anvil#ax;Hot Copper Ingot On Copper Anvil#hammer;Hot Copper Ingot On Copper Anvil;Hot Copper Ingot On Copper Anvil#pick,working;Hot Copper Ingot On Copper Anvil#shovel,working;Hot Copper Ingot On Copper Anvil#blade,working;Hot Copper Ingot On Copper Anvil#file,working;Hot Copper Ingot On Copper Anvil#froe,working;Hot Copper Ingot On Copper Anvil#adze,working;Hot Copper Ingot On Copper Anvil#chisel,working;Hot Copper Ingot On Copper Anvil#ax,working;Hot Copper Ingot On Copper Anvil#hammer,working
+@ Kindling Source;Yew Branch;Yew Shaft;Small Curved Branch;Straight Branch;Long Straight Shaft;Small Curved Shaft;Short Shaft;Stakes;Dead Gooseberry Bush;Firewood;Dug Stump;Dug Gooseberry Bush
+@ Pond Water Source;Canada Goose Pond;Canada Goose Pond#swimming;Canada Goose Pond#swimming, feather;Pond;Pond with Dead Goose#arrow;Pond with Dead Goose
+@ Full Portable Water Source;Full Water Pouch;Bowl of Water;Full Bucket
+@ Carrot;Carrot;Wild Carrot#dug
+@ Wet Canada Goose Pond;Canada Goose Pond;Canada Goose Pond#swimming;Canada Goose Pond#swimming, feather
+@ Yew Bow;Yew Bow#just shot;Yew Bow
+@ Diggable Live Berry Bush;Empty Wild Gooseberry Bush;Languishing Domestic Gooseberry Bush
+@ Food Burner;Fire;Large Slow Fire;Large Fast Fire
+@ Edible Pie;Cooked Berry Carrot Pie;Cooked Berry Carrot Rabbit Pie;Cooked Berry Pie;Cooked Berry Rabbit Pie;Cooked Carrot Pie;Cooked Rabbit Carrot Pie;Cooked Rabbit Pie;Cooked Mutton Pie
+@ Lamb Food Bowl;Bowl of Mashed Berries and Carrot;Bowl of Gooseberries and Carrot
+@ Small Trash;Rabbit Bones;Rabbit Bone;Bone Needle;Leaf;Rabbit Fur;Tinder;Pine Needles;Skewer;Goose Feather;Burnt Goose;Burnt Rabbit;Dead Domestic Lamb;Dead Mouflon Lamb;Dug Sapling Stump;Dug Gooseberry Bush;Broken Crockery;Reed Pipe
+@ Planted Stakes;East-West Wall Stakes;Pit Stakes;North-South Wall Stakes;Floor Stakes;Corner Wall Stakes
+@ Unshot Grizzly Bear;Fed Grizzly Bear;Hungry Grizzly Bear;Grizzly Bear
+@ Empty Portable Water Source;Empty Water Pouch;Bucket;Clay Bowl
+@ Scrap Steel;Steel Adze Head;Steel Ax Head;Steel Blade;Steel Blade Blank;Steel Chisel;Steel File;Steel File Blank;Steel Froe Blade;Steel Mining Pick Head;Steel Shovel Head;Steel Saw Blade
+@ Simmering Liquid;Simmering Rose Madder Dye;Simmering Indigo Dye;Simmering Dye Mordant;Simmering Water
+@ Partial Adobe Build;Partial Adobe Wall#corner;Partial Adobe Wall#west east;Partial Adobe Wall#north south;Adobe Oven Base
+@ Stone Rubble Sources;Cistern;Full Cistern;Empty Cistern;Empty Cistern#just built

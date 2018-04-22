@@ -2,7 +2,7 @@ const execSync = require('child_process').execSync;
 const fs = require('fs');
 
 console.log('Getting file list');
-const fileList = execSync('ls').toString().split('\n');
+const fileList = execSync('ls ../objects').toString().split('\n');
 
 const objectIdMap = {};
 
@@ -12,7 +12,7 @@ for (const file of fileList) {
     } else {
         continue;
     }
-    const fileContents = fs.readFileSync(file).toString();
+    const fileContents = fs.readFileSync(`../objects/${file}`).toString();
     const id = fileContents.match(/id=(\d+)?\n/);
     const name = fileContents.match(/\n(.+)?\n/);
     if (id != null && name != null) {

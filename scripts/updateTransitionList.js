@@ -2,7 +2,7 @@ const execSync = require('child_process').execSync;
 const fs = require('fs');
 
 console.log('Getting objects from list file');
-const objectList = fs.readFileSync('../objects/objectList.txt').toString().split('\n');
+const objectList = fs.readFileSync('objectList.txt').toString().split('\n');
 
 const objectIdMap = {
     0: 'Nothing'
@@ -21,14 +21,14 @@ for (const object of objectList) {
 }
 
 console.log('Getting file list');
-const fileList = execSync('ls').toString().split('\n');
+const fileList = execSync('ls ../transitions').toString().split('\n');
 
 let listString = '';
 for (const file of fileList) {
     let thisString = '';
     if (file && file.match(/_/)) {
         const match = file.match(/([^_]+)?_([^_]+)?(_.*)?\.txt/);
-        const fileContents = fs.readFileSync(file).toString().split(' ');
+        const fileContents = fs.readFileSync(`../transitions/${file}`).toString().split(' ');
         // console.log(`Adding transition ${match[1]} on ${match[2]}: ${objectIdMap[match[1]]} on ${objectIdMap[match[2]]}`);
         if (match[1] == -2) { // actor
             thisString += 'Player of any age;'; // actor

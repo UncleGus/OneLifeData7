@@ -1,0 +1,1354 @@
+11;Skin Tone A,B,C,D,E,F
+19;Female001 D
+30;Wild Gooseberry Bush
+31;Wild Gooseberry
+32;Big Hard Rock
+33;Stone
+34;Sharp Stone
+35;Gooseberry Seed
+36;Seeding Wild Carrot
+39;Dug Wild Carrot
+40;Wild Carrot#dug
+45;Lombardy Poplar Tree
+48;Maple Tree
+49;Juniper Tree
+50;Milkweed
+51;Flowering Milkweed
+52;Fruiting Milkweed
+53;Milkweed Debris
+54;Milkweed Debris#Flowering
+55;Milkweed Debris#Fruit
+56;Milkweed Stump
+57;Milkweed Stalk
+58;Thread
+59;Rope
+60;Milkweed Stump#Fertile
+61;Tinder
+62;Leaf
+63;Maple Tree#Branch
+64;Straight Branch
+65;Lombardy Poplar Tree#Branch
+66;Small Curved Branch
+67;Long Straight Shaft
+68;Small Curved Shaft
+69;Short Shaft
+70;Tied Short Shaft
+71;Stone Hatchet
+72;Kindling
+73;Bow Drill Bow
+74;Fire Bow Drill
+75;Ember Shaft
+77;Ember Leaf
+78;Smoldering Tinder
+79;Spent Tinder
+80;Burning Tinder
+82;Fire
+83;Large Fast Fire
+85;Hot Coals
+86;Ashes
+87;Fresh Grave
+88;Grave
+89;Old Grave
+92;Tied Long Shaft
+96;Pine Needles
+99;White Pine Tree
+100;White Pine Tree with Needles
+101;Wooden Frame
+103;Netted Wooden Frame
+104;Partial Wooden Frame
+105;Half Wooden Frame
+106;Pine Panel
+107;Stakes
+108;East-West Wall Stakes
+109;North-South Wall Stakes
+110;Corner Wall Stakes
+111;Pine Wall#corner
+112;Pine Wall#west east
+113;Pine Wall#north south
+114;Pine Door
+115;Pine Door# Installed
+116;Pine Door# installed vert
+117;Open Pine Door# installed vert
+119;Open Pine Needle Door# installed
+121;Tule Reeds
+122;Tule Stumps
+123;Harvested Tule
+124;Reed Bundle
+125;Clay Deposit
+126;Clay
+127;Adobe
+128;Reed Skirt
+131;Yew Shaft
+132;Yew Branch
+133;Flint
+134;Flint Arrowhead
+135;Flint Chip
+136;Sapling
+137;Sapling Stump
+138;Cut Sapling Skewer
+139;Skewer
+140;Tied Skewer
+141;Canada Goose Pond
+142;Canada Goose Pond#swimming
+143;Canada Goose Pond#swimming, feather
+144;Goose Feather
+146;Fletching
+147;Featherless Arrow
+148;Arrow
+149;Headless Arrow
+150;Flint Chips
+151;Yew Bow
+152;Bow and Arrow
+153;Yew Tree#Branch
+154;Adobe Wall#corner
+155;Adobe Wall#west east
+156;Adobe Wall#north south
+157;Partial Adobe Wall#corner
+158;Partial Adobe Wall#west east
+159;Partial Adobe Wall#north south
+160;Snare
+161;Rabbit Hole#hiding,single
+162;Snared Rabbit Hole#hiding
+163;Snared Rabbit Family Hole#hiding
+164;Rabbit Hole#out,single
+165;Rabbit Hole#peeking2,single
+166;Rabbit Hole#peeking1,single
+167;Rabbit Family Hole#hiding
+168;Snared Rabbit Hole#peeking2,single
+169;Snared Rabbit Hole#peeking1,single
+171;Snared Rabbit Family Hole#peeking2
+172;Snared Rabbit Family Hole#peeking1
+173;Rabbit Family Hole#out
+174;Snared Rabbit#alive
+175;Snared Family Rabbit#alive
+176;Snared Rabbit#dead
+177;Snared Rabbit#dead,family
+178;Rabbit Hole with Used Snare#single
+179;Rabbit Hole with Used Snare#family
+180;Dead Rabbit
+181;Skinned Rabbit
+182;Skinned Rabbit#fur
+183;Rabbit Fur
+184;Four Pieces of Cut Rabbit Fur
+185;Skewered Rabbit
+186;Cooked Rabbit On Skewer
+187;Burnt Rabbit On Skewer
+189;Rabbit Bone
+190;Rabbit Bones
+191;Bone Needle
+192;Needle and Thread
+193;Rabbit Family Hole#peeking1
+194;Rabbit Family Hole#peeking2
+195;Abandoned Rabbit Hole
+196;Rabbit Hole#growing
+197;Cooked Rabbit
+198;Backpack
+199;Rabbit Fur Hat
+200;Rabbit Fur Loincloth
+201;Rabbit Fur Shawl
+202;Rabbit Fur Coat
+203;Rabbit Fur Shoe
+204;Two Rabbit Furs
+205;Three Rabbit Furs
+206;Four Rabbit Furs
+207;Two Pieces of Cut Rabbit Fur
+208;Four Full and Two Cut Rabbit Furs
+209;Empty Water Pouch
+210;Full Water Pouch
+211;Fertile Soil Deposit
+212;Soil-filled Backpack
+213;Tilled Row
+214;Dry Planted Milkweed Seed
+215;Wet Planted Milkweed Seed
+216;Dry Planted Gooseberry Seed#fertile
+217;Wet Planted Gooseberry Seed#fertile
+218;Milkweed Sprout
+219;Gooseberry Sprout
+220;Milkweed Seed
+223;Wheat Seed Head
+224;Harvested Wheat
+225;Wheat Sheaf
+226;Threshed Wheat
+227;Straw
+228;Dry Planted Wheat
+229;Wet Planted Wheat
+230;Wheat Sprouts
+231;Adobe Oven Base
+233;Wet Clay Bowl
+234;Wet Clay Plate
+235;Clay Bowl
+236;Clay Plate
+237;Adobe Oven
+238;Adobe Kiln
+239;Wooden Tongs
+240;Wet Plate in Wooden Tongs
+241;Fired Plate in Wooden Tongs
+242;Ripe Wheat
+243;Unripe Wheat
+244;Wheat Stumps
+245;Bowl of Wheat
+247;Wood-filled Adobe Oven
+248;Firebrand
+249;Burning Adobe Oven
+250;Hot Adobe Oven
+251;Bowl of Flour
+252;Bowl of Dough
+253;Bowl of Gooseberries
+254;Bowl of Rabbit
+255;Bowl of Minced Rabbit
+256;Bowl of Gooseberries And Rabbit
+257;Bowl of Gooseberries, Rabbit, and Carrot
+258;Bowl of Gooseberries and Carrot
+259;Bowl of Mashed Berries, Rabbit, and Carrot
+260;Bowl of Mashed Berries and Carrot
+261;Bowl of Mashed Berries and Rabbit
+262;Bowl of Rabbit and Carrot
+263;Bowl of Mashed Rabbit and Carrot
+264;Raw Pie Crust
+265;Raw Berry Pie
+266;Raw Berry Carrot Pie
+267;Raw Berry Carrot Rabbit Pie
+268;Raw Carrot Pie
+269;Raw Carrot Rabbit Pie
+270;Raw Rabbit Pie
+271;Raw Berry Rabbit Pie
+272;Cooked Berry Pie
+273;Cooked Carrot Pie
+274;Cooked Rabbit Pie
+275;Cooked Berry Carrot Pie
+276;Cooked Berry Rabbit Pie
+277;Cooked Rabbit Carrot Pie
+278;Cooked Berry Carrot Rabbit Pie
+279;Empty Wild Gooseberry Bush
+281;Wood-filled Adobe Kiln
+282;Firing Adobe Kiln
+283;Wooden Tongs with Fired Bowl
+284;Wet Bowl in Wooden Tongs
+285;Wet Clay Nozzle
+286;Clay Nozzle
+287;Bellows Without Nozzle
+288;Bellows
+289;Iron Ore in Wooden Tongs
+290;Iron Ore
+291;Flat Rock
+292;Basket
+293;Firing Adobe Kiln Sealed
+294;Sealed Adobe Kiln
+295;Wet Nozzle in Wooden Tongs
+296;Fired Nozzle in Wooden Tongs
+297;Threshed Wheat#straw removed
+298;Basket of Charcoal
+299;Adobe Kiln with Charcoal
+300;Big Charcoal Pile#3
+301;Small Charcoal Pile#2
+302;Charcoal#1
+303;Forge With Bellows#bellows added
+304;Firing Forge With Bellows
+305;Charcoal-Filled Forge With Bellows#charcoal added
+307;Hot Iron Bloom
+308;Hot Iron Bloom in Wooden Tongs
+309;Hot Iron Bloom on Flat Rock
+310;Cold Iron Bloom
+311;Cold Iron Bloom in Wooden Tongs
+312;Cold Iron Bloom on Flat Rock
+313;Wrought Iron on Flat Rock
+314;Wrought Iron
+316;Crucible with Iron and Charcoal
+317;Crucible with Iron
+318;Crucible with Charcoal
+319;Unforged Sealed Crucible
+320;Unforged Crucible in Wooden Tongs
+321;Hot Forged Crucible
+322;Forged Crucible
+323;Hot Crucible in Wooden Tongs
+324;Cool Crucible in Wooden Tongs
+325;Crucible with Steel
+326;Steel Ingot
+327;Wooden Tongs#cool steel ingot
+328;Hot Steel Ingot
+329;Hot steel Ingot in Wooden Tongs
+330;Hot Steel Ingot on Flat Rock
+331;Hot Steel Ax Head#flat rock
+332;Steel Ax Head on Flat Rock
+333;Steel Ax Head
+334;Steel Ax
+335;Steel Ingot on Flat Rock
+336;Basket of Soil
+338;Stump
+339;Chopped Tree#big,log
+340;Chopped Tree with Firewood#big,log,wood2
+341;Chopped Tree with Firewood#big,log,wood1
+342;Chopped Tree with Firewood#Small,wood2
+343;Chopped Tree with Firewood#Small,wood1
+344;Firewood
+345;Butt Log
+346;Large Slow Fire
+347;Male002 D
+350;Female003 D
+351;Female004 C
+352;Male005 D
+353;Female006 C
+354;Male007 C
+355;Male008 C
+356;Basket of Bones
+357;Bone Pile
+365;Touched Edge
+366;Edge
+367;@ Kindling Source
+382;Bowl of Water
+388;@ Pond Water Source
+389;Dry Gooseberry Bush
+390;Dead Gooseberry Bush
+391;Domestic Gooseberry Bush
+392;Languishing Domestic Gooseberry Bush
+393;Vigorous Domestic Gooseberry Bush
+394;@ Full Portable Water Source
+395;Carrot Seed Head
+396;Dry Planted Carrots
+398;Carrot Sprouts
+399;Wet Planted Carrots
+400;Carrot Row
+401;Seeding Carrots
+402;Carrot
+404;Wild Carrot
+405;@ Carrot
+406;Yew Tree
+408;Empty Clay Pit
+409;Clay Pit#partial
+410;Wormy Empty Fertile Soil Pit
+411;Fertile Soil Pit#partial
+412;@ Wet Canada Goose Pond
+416;Burnt Rabbit
+418;Wolf
+420;Shot Wolf
+421;Dead Wolf with Arrow
+422;Dead Wolf
+423;Skinned Wolf
+424;Skinless Wolf
+425;Wolf Skin
+426;Wolf Hat
+427;Attacking Wolf
+428;Attacking Shot Wolf
+429;Dying Shot Wolf
+432;Domestic Gooseberry
+433;Jason Test
+434;Wooden Box
+440;Hot Steel Hammer Head#flat rock
+441;Smithing Hammer
+442;Steel Hammer Head on Flat Rock
+443;Smithing Hammer Head
+444;Hot Steel Adze Head#flat rock
+445;Hot Steel Chisel#flat rock
+446;Hot Steel Froe Blade#flat rock
+447;Hot Steel File Blank#flat rock
+448;Hot Steel Blade Blank#flat rock
+449;Steel Froe Blade#flat rock
+450;Steel File Blank#flat rock
+451;Steel Chisel#flat rock
+452;Steel Blade Blank#flat rock
+453;Steel Adze Head#flat rock
+454;Steel Adze Head
+455;Steel Chisel
+456;Steel Froe Blade
+457;Steel File Blank
+458;Steel File
+459;Steel Blade Blank
+460;Steel Saw Blade
+461;Bow Saw
+462;Steel Adze
+463;Steel Froe
+464;Oiled File Blank
+465;Oiled File Blank with Chisel
+466;Steel File with Chisel
+467;Mallet
+468;Froe Wedged In Log
+469;Boards with Froe
+470;Boards
+471;Wooden Sledge
+472;Wooden Disks
+473;Wooden Disk
+474;Flint-tipped Bow Drill
+475;Wooden Wheel
+483;Wheelbarrow
+484;Hand Cart
+485;Wooden Floor
+486;Floor Stakes
+487;Home Marker
+488;Long Play Phonorecord Album
+489;Phonorecord Sleeve
+490;Long Play Phonorecord
+491;Phonograph
+492;Playing Phonograph
+493;Yew Bow#just shot
+494;@ Yew Bow
+495;Crucible with Scrap Steel
+496;Dug Stump
+497;Dug Sapling Stump
+498;Dug Gooseberry Bush
+499;Hot Steel Shovel Head#flat rock
+500;Steel Shovel Head#flat rock
+501;Steel Shovel Head
+502;Shovel
+503;Dug Big Rock
+504;Split Big Rock#right
+505;Split Big Rock#left
+506;Split Big Rock
+507;@ Diggable Live Berry Bush
+508;Dug Big Rock with Chisel
+509;Pond with Dead Goose
+510;Pond with Dead Goose#arrow
+511;Pond
+512;Dry Pond
+513;Flooded Pond
+514;Dead Canada Goose
+515;Plucked Canada Goose
+516;Skewered Goose
+517;Cooked Goose On Skewer
+518;Cooked Goose
+519;@ Food Burner
+520;Burnt Goose On Skewer
+521;Burnt Goose
+522;Goose Bones
+524;@ Edible Pie
+527;Willow Tree
+530;Bald Cypress Tree
+531;Mouflon
+532;Mouflon with Lamb
+534;Mouflon Lamb
+536;Shot Mouflon with Lamb#arrow
+537;Shot Mouflon with Lamb#no arrow
+538;Dead Mouflon#no arrow
+539;Shot Mouflon#arrow
+540;Mouflon Lamb#rope
+541;Domestic Mouflon
+542;Domestic Lamb
+543;Domestic Lamb#rope
+544;Domestic Mouflon with Lamb
+545;Domestic Lamb#just left parent
+546;Split Big Rock#chisel
+547;Bowl of Carrot
+548;Bowl of Mashed Carrot
+549;Fence#north south
+550;Fence#west east
+551;Fence#corner
+553;East-West Fence Holes
+554;North-South Fence Holes
+555;Corner Fence Holes
+556;Fence Kit
+557;Two Shafts
+558;Open Fence
+559;Steel Blade
+560;Knife
+562;Skinned Mouflon
+563;Skinned Mouflon#with hide
+564;Mouflon Hide
+565;Butchered Mouflon
+566;Mouflon Bones
+567;Two Steel Blade
+568;Shears
+569;Raw Mutton
+570;Cooked Mutton
+571;Basket of Mouflon Bones
+572;Mouflon Bones#dumped
+573;Arrow#just pulled
+575;Domestic Sheep
+576;Shorn Domestic Sheep
+577;Shorn Domestic Sheep#fleece
+578;Fleece
+579;Drop Spindle
+580;Big Ball of Yarn
+581;Small Ball of Yarn
+582;Huge Ball of Yarn
+583;Knitting Needles
+584;Wool Hat
+585;Wool Sweater
+586;Wool Booty
+587;Butchered Sheep
+588;Sheep Bones
+589;Sheep Bones#dumped
+590;Basket of Sheep Bones
+591;Skinned Sheep#with hide
+593;Sheep Skin
+595;Dead Sheep
+596;Skinned Sheep
+597;Dead Sheep#shorn
+598;Dead Sheep#shorn fleece
+599;Dead Domestic Mouflon
+600;Domestic Sheep with Lamb
+601;Fed Mouflon Lamb
+602;Fed Domestic Lamb
+603;Hungry Mouflon Lamb
+604;Hungry Domestic Lamb
+605;Dead Mouflon Lamb
+606;Dead Domestic Lamb
+608;Domestic Lamb#rope fed
+609;Fed Domestic Lamb#post hungry
+610;Fed Mouflon Lamb#post hungry
+612;@ Lamb Food Bowl
+613;Domestic Lamb#rope fed post hungry
+614;Fed Shorn Domestic Sheep
+615;Eaten Carrot Row
+616;Sheep Eating Carrot Row
+617;Small Trash Pit
+618;Filled Small Trash Pit
+619;@ Small Trash
+620;Small Trash Pit with Stakes
+621;Filled Small Trash Pit with Stakes
+622;Pit Stakes
+623;Dry Compost Pile
+624;Composted Soil
+625;Wet Compost Pile
+626;@ Planted Stakes
+627;Parts
+628;Grizzly Bear
+630;Bear Cave
+631;Hungry Grizzly Bear
+632;Shot Grizzly Bear#1
+635;Shot Grizzly Bear#2
+637;Shot Grizzly Bear#3
+639;Dead Grizzly Bear#3
+641;Dead Grizzly Bear#2
+642;Dead Grizzly Bear#1
+643;Dead Grizzly Bear#0
+644;Dying Shot Grizzly Bear#3
+645;Fed Grizzly Bear
+646;@ Unshot Grizzly Bear
+647;Bear Cave#waking
+648;Bear Cave#awake
+649;Bear Cave#empty just left
+650;Bear Cave#empty
+653;Hungry Grizzly Bear#attacking
+654;Shot Grizzly Bear#1 attacking
+655;Shot Grizzly Bear#2 attacking
+656;Bear Skin Rug
+657;Skinned Bear#with hide
+658;Skinned Bear
+659;Bucket
+660;Full Bucket
+661;Stone Pile
+662;Shallow Well
+663;Deep Well
+664;Dry Shallow Well
+665;Dry Deep Well
+666;Well Stanchion Kit
+667;Bear Skin
+668;Boards with Bearskin
+669;@ Empty Portable Water Source
+670;Empty Cistern#just built
+671;Full Cistern
+672;Cistern
+673;Empty Cistern
+674;Limestone
+675;Bowl of Limestone
+676;Bowl of Quicklime
+677;Bowl of Plaster
+678;Limestone Bowl in Wooden Tongs
+679;Quicklime Bowl in Wooden Tongs
+680;Gold Vein
+681;Gold Flakes#just mined
+682;Hot Steel Mining Pick#flat rock
+683;Steel Mining Pick#flat rock
+684;Steel Mining Pick
+685;Steel Mining Pick Head
+686;Bowl of Gold Flakes
+687;Bowl with Gold Ingot
+688;Gold Flakes#dumped
+689;Gold Ingot
+690;Bowl of Gold in Wooden Tongs
+691;Bowl with Gold Ingot in Wooden Tongs
+692;Crown Blank
+693;Carrot Crown
+694;Leaf Crown
+695;Wolf Crown
+696;@ Scrap Steel
+697;Crown Blank with Leaf
+698;Crown Blank with Carrot
+699;Crown Blank with Wolf Skin
+700;Leaf Crown with Leaf
+701;Carrot Crown with Carrot
+702;Wolf Crown with Wolf Skin
+703;Penguin
+705;Penguin#slide
+706;Ice Hole
+707;Antarctic Fur Seal
+708;Clubbed Seal
+709;Skinned Seal#with fur
+710;Skinned Seal#no fur
+711;Seal Skin
+712;Sealskin Coat
+713;Indigo
+714;Rose Madder
+715;Rose Madder Root
+716;Indigo Bundle
+717;Ice Hole#seal in
+718;Ice Hole#penguin in
+719;Ice Hole#seal out
+720;Ice Hole#penguin out
+721;Ice Hole#animal just left
+724;Boards with Disk
+725;Indigo Wool Sweater
+726;Red Wool Sweater
+729;Alum
+730;Simmering Water
+731;Simmering Dye Mordant
+732;Ashes with Bowl
+733;Simmering Indigo Dye
+734;Simmering Rose Madder Dye
+735;@ Simmering Liquid
+736;Dye-Ready Wool Booty
+737;Dye-Ready Wool Hat
+738;Dye-Ready Wool Sweater
+739;Indigo Wool Booty
+740;Red Wool Booty
+741;Red Wool Hat
+742;Indigo Wool Hat
+749;Yew Bow#just murdered
+750;Bloody Knife
+752;Murder Grave
+753;Adobe Rubble
+754;Damp Adobe Wall#corner
+755;Soft Adobe Wall#corner
+756;Damp Adobe Wall#north south
+757;Damp Adobe Wall#west east
+758;Soft Adobe Wall#north south
+759;Soft Adobe Wall#west east
+760;Dead Tree
+761;Barrel Cactus
+762;Flowering Barrel Cactus
+763;Fruiting Barrel Cactus
+764;Rattle Snake
+765;Snake Skin
+766;Snake Skin Boot
+767;Lasso
+768;Cactus Fruit
+769;Wild Horse
+770;Riding Horse
+771;Captured Horse
+772;Hitched Wild Horse
+773;Hitched Tame Horse
+774;Hitched Riding Horse
+775;Escaped Riding Horse
+776;Sheepskin Saddle
+778;Horse-Drawn Cart
+779;Hitched Horse-Drawn Cart
+780;Escaped Horse-Drawn Cart
+782;Filled Empty Trash Pit
+783;@ Partial Adobe Build
+784;Stone Pile#rubble
+785;@ Stone Rubble Sources
+787;Worm Pit
+788;Wormless Soil Pit
+789;Worm
+790;Composting Compost Pile
+791;Monolith
+792;Full Monolith
+793;The Apocalypse
+794;Crowned Wild Horse
+795;Crowned Captured Horse
+796;Crowned Wild Horse
+797;Wound Blood
+798;Arrow Wound
+799;Staked Gooseberry Bush
+800;Moist Staked Gooseberry Bush
+801;Dug Gooseberry Bush with Stakes
+802;Raw Mutton Pie
+803;Cooked Mutton Pie
+804;Burdock
+805;Wild Onion
+806;Dug Burdock
+807;Burdock Root
+808;Wild Onion
+809;Tower Bell
+810;Two Gold Ingots
+811;Split Big Rock with Chisel
+812;Stone Block
+813;Stone Block with Chisel
+814;Half Bell Tower Base
+815;Unstable Bell Tower Base#1.2
+816;Stable Bell Tower Base#1
+818;Unstable Bell Tower Base#2.2 monumentStep
+819;Unstable Bell Tower Base#2.1 monumentStep
+820;Stable Bell Tower Base#2
+822;Unstable Bell Tower Base#3.1 monumentStep
+823;Unstable Bell Tower Base#3.2 monumentStep
+824;Stable Bell Tower Base#3
+825;Unstable Bell Tower Base#4.1 monumentStep
+826;Unstable Bell Tower Base#4.2 monumentStep
+827;Stable Bell Tower Base#4
+828;Unstable Bell Tower Base#5.1 monumentStep
+829;Unstable Bell Tower Base#5.2 monumentStep
+830;Stable Bell Tower Base#5
+831;Unstable Bell Tower Base#6.1 monumentStep
+832;Unstable Bell Tower Base#6.2 monumentStep
+833;Stable Bell Tower Base#6
+834;Bell Tower Structure# monumentStep
+835;Bell Tower# monumentDone
+836;Tower Bell with Rope
+837;Psilocybe Mushroom# remapStart
+838;Wormless Soil Pit with Mushroom
+839;Bell Tower# monumentCall
+840;Stuck Bell Tower
+841;Bell Tower# just rang
+842;Bell Tower# ready to ring
+843;Stone Block#justDug
+844;Fruit Boot
+20001;Malachite Vein
+20002;Mined Malachite Vein
+20003;Malachite Nugget
+20004;Crucible with Malachite
+20005;Crucible with Malachite and Charcoal
+20006;Crucible with Copper Chunk
+20007;Crucible with Copper Chunks
+20009;Crucible With Copper Chunks In Wooden Tongs
+20010;Crucible With Molten Copper In Wooden Tongs
+20011;Unforged Sealed Crucible#malachite
+20012;Forged Crucible#copper chunk
+20013;Hot Forged Crucible#copper chunk
+20014;Hot Crucible in Wooden Tongs#copper chunk
+20015;Cool Crucible in Wooden Tongs#copper chunk
+20016;Unforged Crucible in Wooden Tongs#malachite
+20017;Copper Chunk
+20018;Crucible With Copper Ingot In Wooden Tongs
+20019;Crucible With Molten Copper
+20021;Crucible with Copper Ingot
+20022;Copper Ingot
+20023;Copper Ingot in Wooden Tongs
+20024;Hot Copper Ingot in Wooden Tongs
+20025;Hot Copper Ingot on Flat Rock
+20026;Copper Ingot on Flat Rock
+20027;Hot Copper Hammer Head on Flat Rock
+20028;Copper Hammer Head on Flat Rock
+20029;Copper Hammer Head
+20030;Copper Hammer
+20031;Hot Copper Ax Head on Flat Rock
+20032;Copper Ax Head on Flat Rock
+20033;Copper Ax Head
+20034;Copper Ax
+20035;Hot Copper Adze Head on Flat Rock
+20036;Copper Adze Head on Flat Rock
+20037;Copper Adze Head
+20038;Copper Adze
+20039;Hot Copper Froe Blade on Flat Rock
+20040;Copper Froe Blade on Flat Rock
+20041;Copper Froe Blade
+20042;Copper Froe
+20043;Hot Copper Blade Blank on Flat Rock
+20044;Copper Blade Blank on Flat Rock
+20045;Copper Blade Blank
+20046;Whetstone
+20047;Copper Knife
+20048;Copper Blade
+20049;Two Copper Blades
+20050;Copper Saw Blade
+20051;Copper Bow Saw
+20052;Copper Shears
+20053;Hot Copper Shovel Head on Flat Rock
+20054;Copper Shovel Head on Flat Rock
+20055;Copper Shovel Head
+20056;Copper Shovel
+20057;Hot Copper Pick Head on Flat Rock
+20058;Copper Pick Head on Flat Rock
+20059;Copper Pick Head
+20060;Copper Pick
+20061;@ Scrap Copper
+20062;Broken Crockery
+20063;@ Standard Log Producing Tree
+20064;Blunt Copper Ax
+20065;Blunt Copper Adze
+20066;Boards with Copper Froe
+20067;Blunt Copper Froe
+20068;Blunt Copper Knife
+20069;Blunt Copper Bow Saw
+20070;Blunt Copper Shears
+20071;Blunt Copper Shovel
+20072;Blunt Copper Pick
+20073;@ Fence
+20074;@ Soft Adobe Wall
+20075;Copper Froe Wedged In Log
+20076;@ Diggable Dead Berry Bush
+20077;Hot Copper Hammer Head
+20078;Hot Copper Ax Head
+20079;Hot Copper Adze Head
+20080;Hot Copper Froe Blade
+20081;Hot Copper Blade Blank
+20082;Hot Copper Shovel Head
+20083;Hot Copper Pick Head
+20084;Cassiterite Vein
+20085;Mined Cassiterite Vein
+20086;Cassiterite Nugget
+20087;Crucible with Cassiterite
+20088;Crucible with Cassiterite and Charcoal
+20089;Unforged Sealed Crucible#cassiterite
+20090;Unforged Crucible in Wooden Tongs#cassiterite
+20091;Hot Crucible in Wooden Tongs#tin chunk
+20092;Cool Crucible in Wooden Tongs#tin chunk
+20093;Hot Forged Crucible#tin chunk
+20094;Forged Crucible#tin chunk
+20095;Crucible with Tin Chunk
+20096;Tin Chunk
+20097;Crucible with Tin Chunks
+20099;Crucible With Tin Chunks In Wooden Tongs
+20100;Crucible With Molten Tin In Wooden Tongs
+20101;Crucible With Tin Ingot In Wooden Tongs
+20102;Crucible With Molten Tin
+20104;Crucible with Tin Ingot
+20105;Tin Ingot
+20106;Tin Ingot in Wooden Tongs
+20107;Hot Tin Ingot in Wooden Tongs
+20108;Hot Tin Ingot on Flat Rock
+20109;Tin Ingot on Flat Rock
+20110;Tin Chunks#2
+20111;Bronze Adze
+20112;Bronze Adze Head
+20113;Bronze Adze Head on Flat Rock
+20114;Bronze Ax
+20115;Bronze Ax Head
+20116;Bronze Ax Head on Flat Rock
+20117;Bronze Blade Blank
+20118;Bronze Blade Blank on Flat Rock
+20119;Bronze Chisel
+20120;Bronze Chisel On Flat Rock
+20121;Bronze Chunk
+20122;Bronze File Blank
+20123;Bronze File Blank On Flat Rock
+20124;Bronze Froe
+20125;Bronze Froe Blade
+20126;Bronze Froe Blade on Flat Rock
+20127;Bronze Hammer
+20128;Bronze Hammer Head
+20129;Bronze Hammer Head on Flat Rock
+20130;Bronze Ingot
+20131;Bronze Ingot in Wooden Tongs
+20132;Bronze Ingot on Flat Rock
+20133;Bronze Pick
+20134;Bronze Pick Head
+20135;Bronze Pick Head on Flat Rock
+20136;Bronze Shovel
+20137;Bronze Shovel Head
+20138;Bronze Shovel Head on Flat Rock
+20139;Crucible With Bronze Ingot In Wooden Tongs
+20140;Crucible with Bronze Ingot
+20141;Crucible with Tin And Copper
+20142;Flint and Steel
+20144;Hot Bronze Adze Head
+20145;Hot Bronze Adze Head on Flat Rock
+20146;Hot Bronze Ax Head
+20147;Hot Bronze Ax Head on Flat Rock
+20148;Hot Bronze Blade Blank
+20149;Hot Bronze Blade Blank on Flat Rock
+20150;Hot Bronze Chisel
+20151;Hot Bronze Chisel On Flat Rock
+20152;Hot Bronze File Blank
+20153;Hot Bronze File Blank On Flat Rock
+20154;Hot Bronze Froe Blade
+20155;Hot Bronze Froe Blade on Flat Rock
+20156;Hot Bronze Hammer Head
+20157;Hot Bronze Hammer Head on Flat Rock
+20158;Hot Bronze Ingot in Wooden Tongs
+20159;Hot Bronze Ingot on Flat Rock
+20160;Hot Bronze Pick Head
+20161;Hot Bronze Pick Head on Flat Rock
+20162;Hot Bronze Shovel Head
+20163;Hot Bronze Shovel Head on Flat Rock
+20164;Crucible With Molten Bronze In Wooden Tongs
+20165;Crucible With Molten Bronze
+20166;Tinder And Steel
+20167;Crucible With Tin And Copper In Wooden Tongs
+20169;Blunt Bronze Adze
+20170;Blunt Bronze Ax
+20171;Blunt Bronze Bow Saw
+20172;Blunt Bronze Froe
+20173;Blunt Bronze Knife
+20174;Blunt Bronze Pick
+20175;Blunt Bronze Shears
+20176;Blunt Bronze Shovel
+20177;Boards with Bronze Froe
+20178;Bronze Blade
+20179;Bronze Bow Saw
+20180;Bronze File
+20181;Bronze Froe Wedged In Log
+20182;Bronze Knife
+20183;Bronze Saw Blade
+20184;Bronze Shears
+20185;Crucible with Bronze Chunk
+20186;Crucible with Bronze Chunks
+20187;@ Scrap Bronze
+20188;Oiled Bronze File Blank
+20189;Two Bronze Blades
+20190;Crucible With Bronze Chunks In Wooden Tongs
+20192;Oiled Bronze File Blank with Bronze Chisel
+20193;Bronze File with Bronze Chisel
+20194;@ Adze
+20195;@ Ax
+20196;@ Bow Saw
+20197;@ Hammer
+20198;@ Sharp Cutting Tool
+20199;@ Pick
+20200;@ Shears
+20201;@ Shovel
+20202;Reed Pipe
+20203;Reed Bundle With Reed Pipe
+20204;Forge With Pipe#pipe added
+20205;Firing Forge With Pipe
+20206;Charcoal-Filled Forge With Pipe#charcoal added
+20207;Bucket Of Tannin
+20208;Bucket Of Limewater
+20209;Fur In Limewater
+20210;Scraped Fur In Tannin
+20211;Soaked Fur
+20212;Scraped Fur
+20213;Leather In Tannin
+20214;Leather
+20215;Full Bucket With Shaft
+20216;Wet Clay Hammer Mold
+20217;Wet Clay Ax Mold
+20218;Wet Clay Adze Mold
+20219;Wet Clay Froe Mold
+20220;Wet Clay Chisel Mold
+20221;Wet Clay Blade Mold
+20222;Wet Clay Pick Mold
+20223;Wet Clay File Mold
+20224;Wet Clay Shovel Mold
+20225;Clay Hammer Mold
+20226;Clay Ax Mold
+20227;Clay Adze Mold
+20228;Clay Froe Mold
+20229;Clay Chisel Mold
+20230;Clay Blade Mold
+20231;Clay Pick Mold
+20232;Clay File Mold
+20233;Clay Shovel Mold
+20234;@ Warm Forge
+20235;Molten Copper In Clay Hammer Mold
+20236;Molten Copper In Clay Ax Mold
+20237;Molten Copper In Clay Adze Mold
+20238;Molten Copper In Clay Froe Mold
+20239;Molten Copper In Clay Chisel Mold
+20240;Molten Copper In Clay Blade Mold
+20241;Molten Copper In Clay Pick Mold
+20242;Molten Copper In Clay File Mold
+20243;Molten Copper In Clay Shovel Mold
+20244;Molten Tin In Clay Hammer Mold
+20245;Molten Tin In Clay Ax Mold
+20246;Molten Tin In Clay Adze Mold
+20247;Molten Tin In Clay Froe Mold
+20248;Molten Tin In Clay Chisel Mold
+20249;Molten Tin In Clay Blade Mold
+20250;Molten Tin In Clay Pick Mold
+20251;Molten Tin In Clay File Mold
+20252;Molten Tin In Clay Shovel Mold
+20253;Molten Bronze In Clay Hammer Mold
+20254;Molten Bronze In Clay Ax Mold
+20255;Molten Bronze In Clay Adze Mold
+20256;Molten Bronze In Clay Froe Mold
+20257;Molten Bronze In Clay Chisel Mold
+20258;Molten Bronze In Clay Blade Mold
+20259;Molten Bronze In Clay Pick Mold
+20260;Molten Bronze In Clay File Mold
+20261;Molten Bronze In Clay Shovel Mold
+20262;Copper Hammer Head In Clay Mold
+20263;Copper Ax Head In Clay Mold
+20264;Copper Adze Head In Clay Mold
+20265;Copper Froe Blade In Clay Mold
+20266;Copper Chisel In Clay Mold
+20267;Copper Blade Blank In Clay Mold
+20268;Copper Pick Head In Clay Mold
+20269;Copper File Blank In Clay Mold
+20270;Copper Shovel Head In Clay Mold
+20271;Tin Hammer Head In Clay Mold
+20272;Tin Ax Head In Clay Mold
+20273;Tin Adze Head In Clay Mold
+20274;Tin Froe Blade In Clay Mold
+20275;Tin Chisel In Clay Mold
+20276;Tin Blade Blank In Clay Mold
+20277;Tin Pick Head In Clay Mold
+20278;Tin File Blank In Clay Mold
+20279;Tin Shovel Head In Clay Mold
+20280;Stone Hammer Mold
+20281;Stone Ax Mold
+20282;Stone Adze Mold
+20283;Stone Froe Mold
+20284;Stone Chisel Mold
+20285;Stone Blade Mold
+20286;Stone Pick Mold
+20287;Stone File Mold
+20288;Stone Shovel Mold
+20289;Wet Clay Hammer Mold In Wooden Tongs
+20290;Wet Clay Ax Mold In Wooden Tongs
+20291;Wet Clay Adze Mold In Wooden Tongs
+20292;Wet Clay Froe Mold In Wooden Tongs
+20293;Wet Clay Chisel Mold In Wooden Tongs
+20294;Wet Clay Blade Mold In Wooden Tongs
+20295;Wet Clay Pick Mold In Wooden Tongs
+20296;Wet Clay File Mold In Wooden Tongs
+20297;Wet Clay Shovel Mold In Wooden Tongs
+20298;Clay Hammer Mold In Wooden Tongs
+20299;Clay Ax Mold In Wooden Tongs
+20300;Clay Adze Mold In Wooden Tongs
+20301;Clay Froe Mold In Wooden Tongs
+20302;Clay Chisel Mold In Wooden Tongs
+20303;Clay Blade Mold In Wooden Tongs
+20304;Clay Pick Mold In Wooden Tongs
+20305;Clay File Mold In Wooden Tongs
+20306;Clay Shovel Mold In Wooden Tongs
+20307;@ Knife
+20308;@ Sharpening Tool
+20309;Bronze Adze Head In Clay Mold
+20310;Bronze Ax Head In Clay Mold
+20311;Bronze Blade Blank In Clay Mold
+20312;Bronze Chisel In Clay Mold
+20313;Bronze File Blank In Clay Mold
+20314;Bronze Froe Blade In Clay Mold
+20315;Bronze Hammer Head In Clay Mold
+20316;Bronze Pick Head In Clay Mold
+20317;Bronze Shovel Head In Clay Mold
+20318;Bronze Adze Head In Stone Mold
+20319;Bronze Ax Head In Stone Mold
+20320;Bronze Blade Blank In Stone Mold
+20321;Bronze Chisel In Stone Mold
+20322;Bronze File Blank In Stone Mold
+20323;Bronze Froe Blade In Stone Mold
+20324;Bronze Hammer Head In Stone Mold
+20325;Bronze Pick Head In Stone Mold
+20326;Bronze Shovel Head In Stone Mold
+20327;Molten Copper In Stone Hammer Mold
+20328;Molten Copper In Stone Ax Mold
+20329;Molten Copper In Stone Adze Mold
+20330;Molten Copper In Stone Froe Mold
+20331;Molten Copper In Stone Chisel Mold
+20332;Molten Copper In Stone Blade Mold
+20333;Molten Copper In Stone Pick Mold
+20334;Molten Copper In Stone File Mold
+20335;Molten Copper In Stone Shovel Mold
+20336;Molten Tin In Stone Hammer Mold
+20337;Molten Tin In Stone Ax Mold
+20338;Molten Tin In Stone Adze Mold
+20339;Molten Tin In Stone Froe Mold
+20340;Molten Tin In Stone Chisel Mold
+20341;Molten Tin In Stone Blade Mold
+20342;Molten Tin In Stone Pick Mold
+20343;Molten Tin In Stone File Mold
+20344;Molten Tin In Stone Shovel Mold
+20345;Molten Bronze In Stone Hammer Mold
+20346;Molten Bronze In Stone Ax Mold
+20347;Molten Bronze In Stone Adze Mold
+20348;Molten Bronze In Stone Froe Mold
+20349;Molten Bronze In Stone Chisel Mold
+20350;Molten Bronze In Stone Blade Mold
+20351;Molten Bronze In Stone Pick Mold
+20352;Molten Bronze In Stone File Mold
+20353;Molten Bronze In Stone Shovel Mold
+20354;@ Bashing Tool
+20355;Copper Adze Head In Stone Mold
+20356;Copper Ax Head In Stone Mold
+20357;Copper Blade Blank In Stone Mold
+20358;Copper Chisel In Stone Mold
+20359;Copper File Blank In Stone Mold
+20360;Copper Froe Blade In Stone Mold
+20361;Copper Hammer Head In Stone Mold
+20362;Copper Pick Head In Stone Mold
+20363;Copper Shovel Head In Stone Mold
+20364;Tin Adze Head In Stone Mold
+20365;Tin Ax Head In Stone Mold
+20366;Tin Blade Blank In Stone Mold
+20367;Tin Chisel In Stone Mold
+20368;Tin File Blank In Stone Mold
+20369;Tin Froe Blade In Stone Mold
+20370;Tin Hammer Head In Stone Mold
+20371;Tin Pick Head In Stone Mold
+20372;Tin Shovel Head In Stone Mold
+20382;Copper Chisel
+20383;Copper File Blank
+20384;Blunt Bronze Chisel
+20385;Blunt Copper Chisel
+20386;@ Tin Tool In Clay Mold
+20387;@ Tin Tool In Stone Mold
+20388;Soaked Fur In Limewater
+20389;Stone Hammer Mold With Bronze Chisel
+20390;Stone Ax Mold With Bronze Chisel
+20391;Stone Adze Mold With Bronze Chisel
+20392;Stone Froe Mold With Bronze Chisel
+20393;Stone File Mold With Bronze Chisel
+20394;Stone Blade Mold With Bronze Chisel
+20395;Stone Shovel Mold With Bronze Chisel
+20396;Stone Pick Mold With Bronze Chisel
+20397;Stone Hammer Mold With Copper Chisel
+20398;Stone Ax Mold With Copper Chisel
+20399;Stone Adze Mold With Copper Chisel
+20400;Stone Froe Mold With Copper Chisel
+20401;Stone File Mold With Copper Chisel
+20402;Stone Blade Mold With Copper Chisel
+20403;Stone Shovel Mold With Copper Chisel
+20404;Stone Pick Mold With Copper Chisel
+20405;Copper Chisel On Flat Rock
+20406;@ Clay Firer
+20407;Stone Chisel Mold With Bronze Chisel
+20408;Stone Chisel Mold With Copper Chisel
+20409;@ Wet Clay Mold
+20410;@ Fire
+20411;Bronze Chisel#just pulled
+20412;Copper Chisel#just pulled
+20413;Charcoal-Filled Forge With Bellows#bellows added
+20414;Charcoal-Filled Forge With Pipe#pipe added
+20415;Adobe Kiln#bellows removed
+20416;Adobe Kiln#pipe removed
+20417;Adobe Kiln With Charcoal#bellows removed
+20418;Adobe Kiln With Charcoal#pipe removed
+20419;@ Digging Tool
+20420;@ Hacking Tool
+20421;@ Stripping Tool
+20422;Forge With Bellows#charcoal removed
+20423;Forge With Pipe#charcoal removed
+20424;@ Charcoal-Filled Forge With Bellows
+20425;@ Charcoal-Filled Forge With Pipe
+20426;@ Forge With Bellows
+20427;@ Forge With Pipe
+20428;@ Adobe Kiln with Charcoal
+20429;@ Adobe Kiln
+20430;@ Rough Cutting Tool
+20431;@ Chisel
+20432;Copper File
+20433;Oiled Copper File Blank
+20434;Oiled Copper File Blank With Bronze Chisel
+20435;Oiled Copper File Blank With Copper Chisel
+20436;Copper File with Bronze Chisel
+20437;Copper File with Copper Chisel
+20438;@ Stone Mold
+20439;Copper Chunks#2
+20440;Bronze Chunks#2
+20441;Iron Anvil
+20442;Steel Anvil
+20443;Chopped Tree with Firewood#big,hardlog,wood1
+20444;Chopped Tree with Firewood#big,hardlog,wood2
+20445;Chopped Tree#big,hardlog
+20446;Hardwood Butt Log
+20447;Bronze Froe Wedged In Hardwood Log
+20448;Hardwood Boards with Bronze Froe
+20449;Hardwood Boards
+20450;Leather Straps
+20451;Anvil Mold Half
+20452;Anvil Mold Half With Bronze Chisel
+20453;Dug Big Rock with Bronze Chisel
+20454;Split Big Rock#bronze chisel
+20455;Split Big Rock with Bronze Chisel
+20456;Stone Block with Bronze Chisel
+20457;Bronze Anvil
+20458;Hardwood Box
+20461;Anvil Mold Frame#complete,open
+20462;Anvil Mold Frame#empty,open,assembled
+20463;Anvil Mold Frame#partial,open
+20464;Anvil Mold Frame Half
+20465;Anvil Mold Frame#complete,closed
+20466;Anvil Mold Frame#empty,open,disassembled
+20467;@ Anvil Mold Frame#empty,open
+20468;Anvil Mold Frame#molten copper1
+20469;Anvil Mold Frame#molten copper2
+20470;Anvil Mold Frame#molten copper3
+20471;Anvil Mold Frame#molten copper4
+20472;Anvil Mold Frame#molten copper5
+20473;Anvil Mold Frame#copper1
+20474;Anvil Mold Frame#copper2
+20475;Anvil Mold Frame#copper3
+20476;Anvil Mold Frame#copper4
+20477;Anvil Mold Frame#copper5
+20478;Copper Anvil In Mold
+20479;Copper Anvil
+20480;Incomplete Copper Anvil In Mold#4
+20481;Incomplete Copper Anvil In Mold#3
+20482;Incomplete Copper Anvil In Mold#2
+20483;Incomplete Copper Anvil In Mold#1
+20484;Incomplete Copper Anvil#4
+20485;Incomplete Copper Anvil#3
+20486;Incomplete Copper Anvil#2
+20487;Incomplete Copper Anvil#1
+20488;Copper Chunks#3
+20489;Copper Chunks#4
+20490;Copper Chunks#5
+20491;Copper Chunks#6
+20492;Copper Chunks#7
+20493;Copper Chunks#9
+20494;Copper Chunks#10
+20495;Copper Chunks#8
+20496;Copper Chunk#just pulled
+20497;@ Copper Chunk
+20498;Copper Chunk#from anvil
+20499;Anvil Mold Frame#molten bronze1
+20500;Anvil Mold Frame#molten bronze2
+20501;Anvil Mold Frame#molten bronze3
+20502;Anvil Mold Frame#molten bronze4
+20503;Anvil Mold Frame#molten bronze5
+20504;Anvil Mold Frame#bronze1
+20505;Anvil Mold Frame#bronze2
+20506;Anvil Mold Frame#bronze3
+20507;Anvil Mold Frame#bronze4
+20508;Anvil Mold Frame#bronze5
+20509;Bronze Anvil In Mold
+20511;Incomplete Bronze Anvil In Mold#4
+20512;Incomplete Bronze Anvil In Mold#3
+20513;Incomplete Bronze Anvil In Mold#2
+20514;Incomplete Bronze Anvil In Mold#1
+20515;Incomplete Bronze Anvil#4
+20516;Incomplete Bronze Anvil#3
+20517;Incomplete Bronze Anvil#2
+20518;Incomplete Bronze Anvil#1
+20519;Bronze Chunks#3
+20520;Bronze Chunks#4
+20521;Bronze Chunks#5
+20522;Bronze Chunks#6
+20523;Bronze Chunks#7
+20524;Bronze Chunks#9
+20525;Bronze Chunks#10
+20526;Bronze Chunks#8
+20527;Bronze Chunk#just pulled
+20528;@ Bronze Chunk
+20529;Bronze Chunk#from anvil
+20530;Anvil Mold Frame#molten tin1
+20531;Anvil Mold Frame#molten tin2
+20532;Anvil Mold Frame#molten tin3
+20533;Anvil Mold Frame#molten tin4
+20534;Anvil Mold Frame#molten tin5
+20535;Anvil Mold Frame#tin1
+20536;Anvil Mold Frame#tin2
+20537;Anvil Mold Frame#tin3
+20538;Anvil Mold Frame#tin4
+20539;Anvil Mold Frame#tin5
+20540;Tin Anvil In Mold
+20541;Tin Anvil
+20542;Incomplete Tin Anvil In Mold#4
+20543;Incomplete Tin Anvil In Mold#3
+20544;Incomplete Tin Anvil In Mold#2
+20545;Incomplete Tin Anvil In Mold#1
+20546;Incomplete Tin Anvil#4
+20547;Incomplete Tin Anvil#3
+20548;Incomplete Tin Anvil#2
+20549;Incomplete Tin Anvil#1
+20550;Tin Chunks#3
+20551;Tin Chunks#4
+20552;Tin Chunks#5
+20553;Tin Chunks#6
+20554;Tin Chunks#7
+20555;Tin Chunks#9
+20556;Tin Chunks#10
+20557;Tin Chunks#8
+20558;Tin Chunk#just pulled
+20559;@ Tin Chunk
+20560;Tin Chunk#from anvil
+20561;Hot Copper Ingot On Copper Anvil
+20562;Copper Ingot On Copper Anvil
+20563;Hot Copper Hammer Head On Copper Anvil
+20564;Copper Hammer Head On Copper Anvil
+20565;Hot Copper Ax Head On Copper Anvil
+20566;Copper Ax Head On Copper Anvil
+20567;Hot Copper Chisel On Copper Anvil
+20568;Copper Chisel On Copper Anvil
+20569;Hot Copper Adze Head On Copper Anvil
+20570;Copper Adze Head On Copper Anvil
+20571;Hot Copper Froe Blade On Copper Anvil
+20572;Copper Froe Blade On Copper Anvil
+20573;Hot Copper File Blank On Copper Anvil
+20574;Copper File Blank On Copper Anvil
+20575;Hot Copper Blade Blank On Copper Anvil
+20576;Copper Blade Blank On Copper Anvil
+20577;Hot Copper Shovel Head On Copper Anvil
+20578;Copper Shovel Head On Copper Anvil
+20579;Hot Copper Pick Head On Copper Anvil
+20580;Copper Pick Head On Copper Anvil
+20581;Copper Hammer Head#forged
+20582;Copper Ax Head#forged
+20583;Blunt Copper Chisel#forged
+20584;Copper Adze Head#forged
+20585;Copper Froe Blade#forged
+20586;Copper File Blank#forged
+20587;Copper Blade Blank#forged
+20588;Copper Shovel Head#forged
+20589;Copper Pick Head#forged
+20590;Copper Chisel#forged
+20591;Hot Copper Ingot On Copper Anvil#hammer
+20592;Hot Copper Ingot On Copper Anvil#ax
+20593;Hot Copper Ingot On Copper Anvil#chisel
+20594;Hot Copper Ingot On Copper Anvil#adze
+20595;Hot Copper Ingot On Copper Anvil#froe
+20596;Hot Copper Ingot On Copper Anvil#file
+20597;Hot Copper Ingot On Copper Anvil#blade
+20598;Hot Copper Ingot On Copper Anvil#shovel
+20599;Hot Copper Ingot On Copper Anvil#pick
+20600;@ Hot Copper Ingot On Copper Anvil
+20601;Hot Copper Ingot On Copper Anvil#hammer,working
+20602;Hot Copper Ingot On Copper Anvil#ax,working
+20603;Hot Copper Ingot On Copper Anvil#chisel,working
+20604;Hot Copper Ingot On Copper Anvil#adze,working
+20605;Hot Copper Ingot On Copper Anvil#froe,working
+20606;Hot Copper Ingot On Copper Anvil#file,working
+20607;Hot Copper Ingot On Copper Anvil#blade,working
+20608;Hot Copper Ingot On Copper Anvil#shovel,working
+20609;Hot Copper Ingot On Copper Anvil#pick,working
+20610;Bronze Adze#forged
+20611;Bronze Ax#forged
+20612;Bronze Froe#forged
+20613;Bronze Hammer#forged
+20614;Bronze Pick#forged
+20615;Bronze Shovel#forged
+20616;Bronze Bow Saw#forged
+20617;Bronze Knife#forged
+20618;Blunt Bronze Adze#forged
+20619;Blunt Bronze Ax#forged
+20620;Blunt Bronze Bow Saw#forged
+20621;Blunt Bronze Froe#forged
+20622;Blunt Bronze Knife#forged
+20623;Blunt Bronze Pick#forged
+20624;Blunt Bronze Shears#forged
+20625;Blunt Bronze Shovel#forged
+20626;Blunt Bronze Chisel#forged
+20627;Copper Hammer#forged
+20628;Copper Ax#forged
+20629;Copper Adze#forged
+20630;Copper Froe#forged
+20631;Copper Knife#forged
+20632;Copper Blade#forged
+20633;Two Copper Blades#forged
+20634;Copper Saw Blade#forged
+20635;Copper Bow Saw#forged
+20636;Copper Shears#forged
+20637;Copper Shovel#forged
+20638;Copper Pick#forged
+20639;Blunt Copper Ax#forged
+20640;Blunt Copper Adze#forged
+20641;Boards with Copper Froe#forged
+20642;Blunt Copper Froe#forged
+20643;Blunt Copper Knife#forged
+20644;Blunt Copper Bow Saw#forged
+20645;Blunt Copper Shears#forged
+20646;Blunt Copper Shovel#forged
+20647;Blunt Copper Pick#forged
+20648;Copper File#forged
+20649;Copper Chisel On Flat Rock#forged
+20650;Oiled Copper File Blank With Copper Chisel#forged
+20651;Copper Froe Wedged In Log#forged
+20652;Copper File with Bronze Chisel#forged
+20653;Copper File with Copper Chisel#forged
+20654;Oiled Copper File Blank#forged
+20655;Stone Hammer Mold With Copper Chisel#forged
+20656;Stone Ax Mold With Copper Chisel#forged
+20657;Stone Adze Mold With Copper Chisel#forged
+20658;Stone Froe Mold With Copper Chisel#forged
+20659;Stone File Mold With Copper Chisel#forged
+20660;Stone Blade Mold With Copper Chisel#forged
+20661;Stone Shovel Mold With Copper Chisel#forged
+20662;Stone Pick Mold With Copper Chisel#forged
+20663;Stone Chisel Mold With Copper Chisel#forged
+20664;Copper Chisel#forged,just pulled
+20665;Bronze Chisel#forged
+20666;Bronze File#forged
+20667;Bronze File Blank#forged
+20668;Bronze Shears#forged
+20669;Bronze Adze Head#forged
+20670;Bronze Ax Head#forged
+20671;Bronze Blade#forged
+20672;Bronze Blade Blank#forged
+20673;Bronze Froe Blade#forged
+20674;Bronze Hammer Head#forged
+20675;Bronze Pick Head#forged
+20676;Bronze Shovel Head#forged
+20677;Bronze Saw Blade#forged
+20678;Oiled Bronze File Blank#forged
+20679;Bronze Chisel#forged,just pulled

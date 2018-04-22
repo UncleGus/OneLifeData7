@@ -4,7 +4,7 @@ const data = fs.readFileSync('categoriesData.dat').toString('utf8').split('\n');
 
 for (const d of data) {
     const fileWithoutExtension = d.substr(0, d.indexOf('\t'));
-    const fileName = `${fileWithoutExtension}.txt`;
+    const fileName = `../categories/${fileWithoutExtension}.txt`;
     const fileContents = d.replace(`${fileWithoutExtension}\t`, '');
     const objectList = fileContents.split(';').filter(o => o != 0);
     let fileString = `parentID=${fileWithoutExtension}\nnumObjects=${objectList.length}`;

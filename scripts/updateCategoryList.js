@@ -2,7 +2,7 @@ const execSync = require('child_process').execSync;
 const fs = require('fs');
 
 console.log('Getting objects from list file');
-const objectList = fs.readFileSync('../objects/objectList.txt').toString().split('\n');
+const objectList = fs.readFileSync('objectList.txt').toString().split('\n');
 
 const objectIdMap = {
     0: 'Nothing'
@@ -21,7 +21,7 @@ for (const object of objectList) {
 }
 
 console.log('Getting file list');
-const fileList = execSync('ls').toString().split('\n');
+const fileList = execSync('ls ../categories').toString().split('\n');
 
 let listString = '';
 for (const file of fileList) {
@@ -31,7 +31,7 @@ for (const file of fileList) {
     } else {
         continue;
     }
-    const fileContents = fs.readFileSync(file).toString();
+    const fileContents = fs.readFileSync(`../categories/${file}`).toString();
     const parentID = fileContents.match(/parentID=(\d+)?\n/);
     const objects = fileContents.match(/\n(\d+)?/g);
     thisString += `${objectIdMap[parentID[1]]}`;
