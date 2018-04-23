@@ -1437,3 +1437,18 @@
 20762;Boards with Bronze Froe#forged
 20763;Hardwood Boards with Bronze Froe#forged
 20764;Boards with Bronze Froe
+20765;Oiled Copper File Blank With Bronze Chisel#cast,forged
+20766;Oiled Copper File Blank With Bronze Chisel#forged
+20767;Oiled Copper File Blank With Bronze Chisel#forged,forged
+20768;Oiled Copper File Blank With Copper Chisel#cast,forged
+20769;Oiled Copper File Blank With Copper Chisel#forged,forged
+20770;Oiled Bronze File Blank with Bronze Chisel#forged
+20771;Oiled Bronze File Blank with Bronze Chisel#cast,forged
+20772;Oiled Bronze File Blank with Bronze Chisel#forged,forged
+20773;Copper File with Copper Chisel#cast,forged
+20774;Copper File With Bronze Chisel#cast,forged
+20775;Copper File With Copper Chisel#forged,forged
+20776;Copper File With Bronze Chisel#forged,forged
+20777;Bronze File with Bronze Chisel#forged
+20778;Bronze File with Bronze Chisel#cast,forged
+20779;Bronze File with Bronze Chisel#forged,forged
