@@ -1452,3 +1452,16 @@
 20777;Bronze File with Bronze Chisel#forged
 20778;Bronze File with Bronze Chisel#cast,forged
 20779;Bronze File with Bronze Chisel#forged,forged
+20780;Dug Big Rock with Bronze Chisel#forged
+20781;Split Big Rock#bronze chisel,forged
+20782;Stone Block with Bronze Chisel#forged
+20783;Stone Adze Mold With Bronze Chisel#forged
+20784;Stone Ax Mold With Bronze Chisel#forged
+20785;Stone Blade Mold With Bronze Chisel#forged
+20786;Stone Chisel Mold With Bronze Chisel#forged
+20787;Stone File Mold With Bronze Chisel#forged
+20788;Stone Froe Mold With Bronze Chisel#forged
+20789;Stone Hammer Mold With Bronze Chisel#forged
+20790;Stone Pick Mold With Bronze Chisel#forged
+20791;Stone Shovel Mold With Bronze Chisel#forged
+20792;Anvil Mold Half With Bronze Chisel#forged
