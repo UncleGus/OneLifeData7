@@ -1560,8 +1560,6 @@
 20811;Stone Hoe Mold With Bronze Chisel#forged
 20812;Stone Hoe Mold With Copper Chisel
 20813;Stone Hoe Mold With Copper Chisel#forged
-20814;Molten Bronze In Clay Hoe Mold
-20815;Molten Copper In Clay Hoe Mold
 20816;Hot Bronze Hoe Blade On Bronze Anvil
 20817;Hot Bronze Ingot On Bronze Anvil#hoe
 20818;Hot Bronze Ingot On Bronze Anvil#hoe,working
