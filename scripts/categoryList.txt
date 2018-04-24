@@ -50,7 +50,7 @@
 @ Food Burner;Fire;Large Slow Fire;Large Fast Fire
 @ Edible Pie;Cooked Berry Carrot Pie;Cooked Berry Carrot Rabbit Pie;Cooked Berry Pie;Cooked Berry Rabbit Pie;Cooked Carrot Pie;Cooked Rabbit Carrot Pie;Cooked Rabbit Pie;Cooked Mutton Pie
 @ Lamb Food Bowl;Bowl of Mashed Berries and Carrot;Bowl of Gooseberries and Carrot
-@ Small Trash;Rabbit Bones;Rabbit Bone;Bone Needle;Leaf;Rabbit Fur;Tinder;Pine Needles;Skewer;Goose Feather;Burnt Goose;Burnt Rabbit;Dead Domestic Lamb;Dead Mouflon Lamb;Dug Sapling Stump;Dug Gooseberry Bush;Broken Crockery;Reed Pipe
+@ Small Trash;Rabbit Bones;Rabbit Bone;Bone Needle;Leaf;Rabbit Fur;Tinder;Pine Needles;Skewer;Goose Feather;Burnt Goose;Burnt Rabbit;Dead Domestic Lamb;Dead Mouflon Lamb;Dug Sapling Stump;Dug Gooseberry Bush;Broken Crockery;Reed Pipe;Broken Basket;Broken Skewer;Broken Small Stone Tool;Broken Steel Tool;Broken Steel Tool# no wood;Broken Stone Tool;Broken Wood Tool
 @ Planted Stakes;East-West Wall Stakes;Pit Stakes;North-South Wall Stakes;Floor Stakes;Corner Wall Stakes
 @ Unshot Grizzly Bear;Fed Grizzly Bear;Hungry Grizzly Bear;Grizzly Bear
 @ Empty Portable Water Source;Empty Water Pouch;Bucket;Clay Bowl
@@ -58,3 +58,12 @@
 @ Simmering Liquid;Simmering Rose Madder Dye;Simmering Indigo Dye;Simmering Dye Mordant;Simmering Water
 @ Partial Adobe Build;Partial Adobe Wall#corner;Partial Adobe Wall#west east;Partial Adobe Wall#north south;Adobe Oven Base
 @ Stone Rubble Sources;Cistern;Full Cistern;Empty Cistern;Empty Cistern#just built
+@ Row Tiller;Skewer;Stone Hoe;Steel Hoe
+@ Non-tilling Skewer;Skewer;Old Skewer
+@ Mallets;Mallet;Old Mallet
+@ Decaying Hat;Red Wool Hat;Dye-Ready Wool Hat;Rabbit Fur Hat;Indigo Wool Hat;Wolf Hat;Wool Hat
+@ Decaying Shirt;Rabbit Fur Coat;Rabbit Fur Shawl;Sealskin Coat;Red Wool Sweater;Dye-Ready Wool Sweater;Wool Sweater;Indigo Wool Sweater
+@ Decaying Bottom;Rabbit Fur Loincloth
+@ Decaying Shoe;Rabbit Fur Shoe;Snake Skin Boot;Fruit Boot;Wool Booty;Indigo Wool Booty;Red Wool Booty;Dye-Ready Wool Booty
+@ Tillable Row;Wormy Hardened Row;Hardened Row
+@ Decaying Baskets;Basket of Bones;Basket of Charcoal;Basket of Mouflon Bones;Basket of Sheep Bones;Basket of Soil;Basket

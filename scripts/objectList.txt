@@ -692,6 +692,81 @@
 842;Bell Tower# ready to ring
 843;Stone Block#justDug
 844;Fruit Boot
+845;Floppy Basket
+846;Broken Hand Cart
+847;Broken Skewer
+848;Hardened Row
+849;@ Row Tiller
+850;Stone Hoe
+851;Broken Stone Tool
+852;Old Skewer
+853;@ Non-tilling Skewer
+854;Hot Steel Hoe Blade#flat rock
+855;Steel Hoe Blade
+856;Steel Hoe Blade on Flat Rock
+857;Steel Hoe
+858;Broken Steel Tool
+859;Broken Small Stone Tool
+860;Broken Basket
+861;Old Hand Cart
+862;Broken Steel Tool# no wood
+863;Broken Wood Tool
+864;Rag Hat
+865;Rag Shirt
+866;Rag Loincloth
+867;Old Mallet
+868;@ Mallets
+869;Rag Shoe
+870;@ Decaying Hat
+871;@ Decaying Shirt
+872;@ Decaying Bottom
+873;@ Decaying Shoe
+874;Tattered Backpack
+875;Wooden Door
+876;Wooden Door# Installed
+877;Wooden Door# installed vert
+878;Open Wooden Door# installed
+879;Open Wooden Door# installed vert
+880;Big Stack of Boards
+881;Cut Stones
+882;Split Big Rock with Chisel
+883;Cut Stones with Chisel
+884;Stone Floor
+885;Stone Wall
+886;Stone Wall
+887;Stone Wall
+888;Bear Skin Rug# stone
+889;Cracking Adobe Wall
+890;Cracking Adobe Wall
+891;Cracking Adobe Wall
+892;Fixed Adobe Wall
+893;Fixed Adobe Wall
+894;Fixed Adobe Wall
+895;Ancient Stone Wall
+896;Ancient Stone Wall
+897;Ancient Stone Wall
+898;Ancient Stone Floor
+899;Sheep Dung
+900;Shovel of Dung
+901;Wormy Hardened Row
+902;Tilled Row with Worm
+903;@ Tillable Row
+904;Lock Blank
+905;Lock Blank with Chisel
+906;Steel Ingot with Chisel
+907;Steel Blade Blank with Chisel
+908;Lock and Key Parts
+910;Lock and Key Parts with Chisel
+911;Lock and Key Blank
+912;Lock and Key# $10
+917;Key# $10
+921;Locked Wooden Door# $10
+922;Locked Wooden Door# vert $10
+923;Open Locked Wooden Door# vert $10
+924;Open Locked Wooden Door# $10
+927;Steel Blade Blank with Key# $10
+928;Duplicate Keys# $10
+929;@ Decaying Baskets
 20001;Malachite Vein
 20002;Mined Malachite Vein
 20003;Malachite Nugget
@@ -1129,7 +1204,6 @@
 20451;Anvil Mold Half
 20452;Anvil Mold Half With Bronze Chisel
 20453;Dug Big Rock with Bronze Chisel
-20454;Split Big Rock#bronze chisel
 20455;Split Big Rock with Bronze Chisel
 20456;Stone Block with Bronze Chisel
 20457;Bronze Anvil
@@ -1453,7 +1527,7 @@
 20778;Bronze File with Bronze Chisel#cast,forged
 20779;Bronze File with Bronze Chisel#forged,forged
 20780;Dug Big Rock with Bronze Chisel#forged
-20781;Split Big Rock#bronze chisel,forged
+20781;Split Big Rock with Bronze Chisel#forged
 20782;Stone Block with Bronze Chisel#forged
 20783;Stone Adze Mold With Bronze Chisel#forged
 20784;Stone Ax Mold With Bronze Chisel#forged
@@ -1465,3 +1539,57 @@
 20790;Stone Pick Mold With Bronze Chisel#forged
 20791;Stone Shovel Mold With Bronze Chisel#forged
 20792;Anvil Mold Half With Bronze Chisel#forged
+20793;Copper Shovel of Dung
+20794;Copper Shovel of Dung#forged
+20795;Bronze Shovel of Dung
+20796;Bronze Shovel of Dung#forged
+20797;Cut Stones with Bronze Chisel
+20798;Cut Stones with Bronze Chisel#forged
+20799;Copper Hoe
+20800;Copper Hoe Blade
+20801;Copper Hoe#forged
+20802;Copper Hoe Blade#forged
+20803;Bronze Hoe
+20804;Bronze Hoe Blade
+20805;Bronze Hoe#forged
+20806;Bronze Hoe Blade#forged
+20807;Wet Clay Hoe Mold
+20808;Wet Clay Hoe Mold In Wooden Tongs
+20809;Stone Hoe Mold
+20810;Stone Hoe Mold With Bronze Chisel
+20811;Stone Hoe Mold With Bronze Chisel#forged
+20812;Stone Hoe Mold With Copper Chisel
+20813;Stone Hoe Mold With Copper Chisel#forged
+20814;Molten Bronze In Clay Hoe Mold
+20815;Molten Copper In Clay Hoe Mold
+20816;Hot Bronze Hoe Blade On Bronze Anvil
+20817;Hot Bronze Ingot On Bronze Anvil#hoe
+20818;Hot Bronze Ingot On Bronze Anvil#hoe,working
+20819;Hot Copper Hoe Blade On Bronze Anvil
+20820;Hot Copper Hoe Blade On Copper Anvil
+20821;Hot Copper Ingot On Bronze Anvil#hoe
+20822;Hot Copper Ingot On Bronze Anvil#hoe,working
+20823;Hot Copper Ingot On Copper Anvil#hoe
+20824;Hot Copper Ingot On Copper Anvil#hoe,working
+20825;@ Hoe
+20826;Blunt Bronze Hoe
+20827;Blunt Bronze Hoe#forged
+20828;Blunt Copper Hoe
+20829;Blunt Copper Hoe#forged
+20830;Clay Hoe Mold
+20831;Clay Hoe Mold In Wooden Tongs
+20832;Bronze Hoe Blade In Stone Mold
+20833;Copper Hoe Blade In Stone Mold
+20834;Tin Hoe Blade In Stone Mold
+20835;Copper Hoe Blade On Bronze Anvil
+20836;Copper Hoe Blade On Copper Anvil
+20837;Bronze Hoe Blade On Bronze Anvil
+20838;Molten Bronze In Clay Hoe Mold
+20839;Molten Copper In Clay Hoe Mold
+20840;Molten Tin In Clay Hoe Mold
+20841;Tin Hoe Blade In Clay Mold
+20842;Bronze Hoe Blade In Clay Mold
+20843;Copper Hoe Blade In Clay Mold
+20844;Molten Bronze In Stone Hoe Mold
+20845;Molten Copper In Stone Hoe Mold
+20846;Molten Tin In Stone Hoe Mold
