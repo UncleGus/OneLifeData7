@@ -657,7 +657,7 @@
 805;Wild Onion
 806;Dug Burdock
 807;Burdock Root
-808;Wild Onion
+808;Wild Onion#dug
 809;Tower Bell
 810;Two Gold Ingots
 811;Split Big Rock with Chisel
@@ -732,19 +732,19 @@
 882;Split Big Rock with Chisel
 883;Cut Stones with Chisel
 884;Stone Floor
-885;Stone Wall
-886;Stone Wall
-887;Stone Wall
+885;Stone Wall#corner
+886;Stone Wall#north south
+887;Stone Wall#west east
 888;Bear Skin Rug# stone
-889;Cracking Adobe Wall
-890;Cracking Adobe Wall
-891;Cracking Adobe Wall
-892;Fixed Adobe Wall
-893;Fixed Adobe Wall
-894;Fixed Adobe Wall
-895;Ancient Stone Wall
-896;Ancient Stone Wall
-897;Ancient Stone Wall
+889;Cracking Adobe Wall#corner
+890;Cracking Adobe Wall#north south
+891;Cracking Adobe Wall#west east
+892;Fixed Adobe Wall#west east
+893;Fixed Adobe Wall#north south
+894;Fixed Adobe Wall#corner
+895;Ancient Stone Wall#corner
+896;Ancient Stone Wall#west east
+897;Ancient Stone Wall#north south
 898;Ancient Stone Floor
 899;Sheep Dung
 900;Shovel of Dung
@@ -1591,3 +1591,4 @@
 20844;Molten Bronze In Stone Hoe Mold
 20845;Molten Copper In Stone Hoe Mold
 20846;Molten Tin In Stone Hoe Mold
+20847;@ Cracking Adobe Wall

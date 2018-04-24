@@ -1,5 +1,5 @@
 id=885
-Stone Wall
+Stone Wall#corner
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
