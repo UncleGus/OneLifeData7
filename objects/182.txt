@@ -1,5 +1,5 @@
 id=182
-Skinned Rabbit
+Skinned Rabbit#fur
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

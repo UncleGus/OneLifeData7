@@ -1,5 +1,5 @@
 id=40
-Wild Carrot
+Wild Carrot#dug
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
