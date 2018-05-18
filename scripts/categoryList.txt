@@ -1,0 +1,36 @@
+@ Free Lock;Lock and Key $10;Lock and Key $10# removed
+@ Kindling Source;Yew Branch;Yew Shaft;Small Curved Branch;Straight Branch;Long Straight Shaft;Small Curved Shaft;Short Shaft;Stakes;Dead Gooseberry Bush;Firewood;Dug Stump;Dug Gooseberry Bush
+@ Pond Water Source;Canada Goose Pond;Canada Goose Pond#swimming;Canada Goose Pond#swimming, feather;Pond;Pond with Dead Goose#arrow;Pond with Dead Goose
+@ Full Portable Water Source;Full Water Pouch;Bowl of Water;Full Bucket
+@ Carrot;Carrot;Wild Carrot
+@ Wet Canada Goose Pond;Canada Goose Pond;Canada Goose Pond#swimming;Canada Goose Pond#swimming, feather
+@ Yew Bow;Yew Bow#just shot;Yew Bow
+@ Diggable Live Berry Bush;Empty Wild Gooseberry Bush;Languishing Domestic Gooseberry Bush
+@ Food Burner;Fire;Large Slow Fire;Large Fast Fire
+@ Edible Pie;Cooked Berry Carrot Pie;Cooked Berry Carrot Rabbit Pie;Cooked Berry Pie;Cooked Berry Rabbit Pie;Cooked Carrot Pie;Cooked Rabbit Carrot Pie;Cooked Rabbit Pie;Cooked Mutton Pie
+@ Skinning Tool;Knife;Flint Chip
+@ Lamb Food Bowl;Bowl of Mashed Berries and Carrot;Bowl of Gooseberries and Carrot
+@ Small Trash;Rabbit Bones;Rabbit Bone;Bone Needle;Leaf;Rabbit Fur;Tinder;Pine Needles;Skewer;Goose Feather;Burnt Goose;Burnt Rabbit;Dead Domestic Lamb;Dead Mouflon Lamb;Dug Sapling Stump;Dug Gooseberry Bush;Broken Basket;Broken Skewer;Broken Small Stone Tool;Broken Steel Tool;Broken Steel Tool# no wood;Broken Stone Tool;Broken Wood Tool
+@ Planted Stakes;East-West Wall Stakes;Pit Stakes;North-South Wall Stakes;Floor Stakes;Corner Wall Stakes
+@ Unshot Grizzly Bear;Fed Grizzly Bear;Hungry Grizzly Bear;Grizzly Bear
+@ Empty Portable Water Source;Empty Water Pouch;Bucket;Clay Bowl
+@ New Scrap Steel;Steel Adze Head;Steel Ax Head;Steel Blade;Steel Blade Blank;Steel Chisel;Steel File;Steel File Blank;Steel Froe Blade;Steel Mining Pick Head;Steel Shovel Head;Steel Saw Blade
+@ Shallow Digger;Shovel;Sharp Stone
+@ Rough Cutter;Knife;Sharp Stone;Flint Chip
+@ Simmering Liquid;Simmering Rose Madder Dye;Simmering Indigo Dye;Simmering Dye Mordant;Simmering Water
+@ Partial Adobe Build;Partial Adobe Wall;Partial Adobe Wall;Partial Adobe Wall;Adobe Oven Base
+@ Stone Rubble Sources;Cistern;Full Cistern;Empty Cistern;Empty Cistern#just built
+@ Row Tiller;Skewer;Stone Hoe;Steel Hoe
+@ Non-tilling Skewer;Skewer;Weak Skewer
+@ Decaying Hat;Red Wool Hat;Dye-Ready Wool Hat;Rabbit Fur Hat;Indigo Wool Hat;Wolf Hat;Wool Hat
+@ Decaying Shirt;Rabbit Fur Coat;Rabbit Fur Shawl;Sealskin Coat;Red Wool Sweater;Dye-Ready Wool Sweater;Wool Sweater;Indigo Wool Sweater
+@ Decaying Bottom;Rabbit Fur Loincloth
+@ Decaying Shoe;Rabbit Fur Shoe;Snake Skin Boot;Fruit Boot;Wool Booty;Indigo Wool Booty;Red Wool Booty;Dye-Ready Wool Booty
+@ Tillable Row;Wormy Hardened Row;Hardened Row
+@ Decaying Basket;Basket of Bones;Basket of Charcoal;Basket of Mouflon Bones;Basket of Sheep Bones;Basket of Soil;Basket
+@ Broken Steel Source;Broken Steel Tool;Broken Steel Tool# no wood
+@ Weak Chisel Breaker;Split Big Rock#left;Split Big Rock#right;Steel Blade Blank;Dug Big Rock;Oiled File Blank;Steel Ingot;Split Big Rock
+@ Fine Cutter;Flint Chip;Knife
+@ Weak Froe Breaker;Butt Log
+@ Unlocked Sign;Small Sign;Big Sign;Loose Small Sign;Loose Big Sign;Small Sign on Stone Wall;Big Sign on Stone Wall;Small Sign on Ancient Stone Wall;Big Sign on Ancient Stone Wall
+@ Locked Sign;Locked Small Sign# $10;Locked Big Sign# $10;Loose Locked Small Sign# $10;Loose Locked Big Sign# $10;Locked Small Sign on Stone Wall# $10;Locked Big Sign on Stone Wall# $10;Locked Small Sign on Ancient Stone Wall# $10;Locked Big Sign on Ancient Stone Wall# $10

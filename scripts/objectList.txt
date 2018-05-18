@@ -1,0 +1,849 @@
+11;Skin Tone A,B,C,D,E,F
+19;Female001 D
+30;Wild Gooseberry Bush
+31;Wild Gooseberry
+32;Big Hard Rock
+33;Stone
+34;Sharp Stone
+35;Gooseberry Seed
+36;Seeding Wild Carrot
+39;Dug Wild Carrot
+40;Wild Carrot
+45;Lombardy Poplar Tree
+48;Maple Tree
+49;Juniper Tree
+50;Milkweed
+51;Flowering Milkweed
+52;Fruiting Milkweed
+53;Milkweed Debris
+54;Milkweed Debris#Flowering
+55;Milkweed Debris#Fruit
+56;Milkweed Stump
+57;Milkweed Stalk
+58;Thread
+59;Rope
+60;Milkweed Stump#Fertile
+61;Tinder
+62;Leaf
+63;Maple Tree#Branch
+64;Straight Branch
+65;Lombardy Poplar Tree#Branch
+66;Small Curved Branch
+67;Long Straight Shaft
+68;Small Curved Shaft
+69;Short Shaft
+70;Tied Short Shaft
+71;Stone Hatchet
+72;Kindling
+73;Bow Drill Bow
+74;Fire Bow Drill
+75;Ember Shaft
+77;Ember Leaf
+78;Smoldering Tinder
+79;Spent Tinder
+80;Burning Tinder
+82;Fire
+83;Large Fast Fire
+85;Hot Coals
+86;Ashes
+87;Fresh Grave
+88;Grave
+89;Old Grave
+92;Tied Long Shaft
+96;Pine Needles
+99;White Pine Tree
+100;White Pine Tree with Needles
+101;Wooden Frame
+103;Netted Wooden Frame
+104;Partial Wooden Frame
+105;Half Wooden Frame
+106;Pine Panel
+107;Stakes
+108;East-West Wall Stakes
+109;North-South Wall Stakes
+110;Corner Wall Stakes
+111;Pine Wall
+112;Pine Wall
+113;Pine Wall
+114;Pine Door
+115;Pine Door# Installed
+116;Pine Door# installed vert
+117;Open Pine Door# installed vert
+119;Open Pine Needle Door# installed
+121;Tule Reeds
+122;Tule Stumps
+123;Harvested Tule
+124;Reed Bundle
+125;Clay Deposit
+126;Clay
+127;Adobe
+128;Reed Skirt
+131;Yew Shaft
+132;Yew Branch
+133;Flint
+134;Flint Arrowhead
+135;Flint Chip
+136;Sapling
+137;Sapling Stump
+138;Cut Sapling Skewer
+139;Skewer
+140;Tied Skewer
+141;Canada Goose Pond
+142;Canada Goose Pond#swimming
+143;Canada Goose Pond#swimming, feather
+144;Goose Feather
+146;Fletching
+147;Featherless Arrow
+148;Arrow
+149;Headless Arrow
+150;Flint Chips
+151;Yew Bow
+152;Bow and Arrow
+153;Yew Tree#Branch
+154;Adobe Wall
+155;Adobe Wall
+156;Adobe Wall
+157;Partial Adobe Wall
+158;Partial Adobe Wall
+159;Partial Adobe Wall
+160;Snare
+161;Rabbit Hole#hiding,single
+162;Snared Rabbit Hole#hiding
+163;Snared Rabbit Family Hole#hiding
+164;Rabbit Hole#out,single
+165;Rabbit Hole#peeking2,single
+166;Rabbit Hole#peeking1,single
+167;Rabbit Family Hole#hiding
+168;Snared Rabbit Hole#peeking2,single
+169;Snared Rabbit Hole#peeking1,single
+171;Snared Rabbit Family Hole#peeking2
+172;Snared Rabbit Family Hole#peeking1
+173;Rabbit Family Hole#out
+174;Snared Rabbit#alive
+175;Snared Family Rabbit#alive
+176;Snared Rabbit#dead
+177;Snared Rabbit#dead,family
+178;Rabbit Hole with Used Snare#single
+179;Rabbit Hole with Used Snare#family
+180;Dead Rabbit
+181;Skinned Rabbit
+182;Skinned Rabbit
+183;Rabbit Fur
+184;Four Pieces of Cut Rabbit Fur
+185;Skewered Rabbit
+186;Cooked Rabbit
+187;Burnt Rabbit
+189;Rabbit Bone
+190;Rabbit Bones
+191;Bone Needle
+192;Needle and Thread
+193;Rabbit Family Hole#peeking1
+194;Rabbit Family Hole#peeking2
+195;Abandoned Rabbit Hole
+196;Rabbit Hole#growing
+197;Cooked Rabbit
+198;Backpack
+199;Rabbit Fur Hat
+200;Rabbit Fur Loincloth
+201;Rabbit Fur Shawl
+202;Rabbit Fur Coat
+203;Rabbit Fur Shoe
+204;Two Rabbit Furs
+205;Three Rabbit Furs
+206;Four Rabbit Furs
+207;Two Pieces of Cut Rabbit Fur
+208;Four Full and Two Cut Rabbit Furs
+209;Empty Water Pouch
+210;Full Water Pouch
+211;Fertile Soil Deposit
+212;Soil-filled Backpack
+213;Tilled Row
+214;Dry Planted Milkweed Seed
+215;Wet Planted Milkweed Seed
+216;Dry Planted Gooseberry Seed#fertile
+217;Wet Planted Gooseberry Seed#fertile
+218;Milkweed Sprout
+219;Gooseberry Sprout
+220;Milkweed Seed
+223;Wheat Seed Head
+224;Harvested Wheat
+225;Wheat Sheaf
+226;Threshed Wheat
+227;Straw
+228;Dry Planted Wheat
+229;Wet Planted Wheat
+230;Wheat Sprouts
+231;Adobe Oven Base
+233;Wet Clay Bowl
+234;Wet Clay Plate
+235;Clay Bowl
+236;Clay Plate
+237;Adobe Oven
+238;Adobe Kiln
+239;Wooden Tongs
+240;Wet Plate in Wooden Tongs
+241;Fired Plate in Wooden Tongs
+242;Ripe Wheat
+243;Unripe Wheat
+244;Wheat Stumps
+245;Bowl of Wheat
+247;Wood-filled Adobe Oven
+248;Firebrand
+249;Burning Adobe Oven
+250;Hot Adobe Oven
+251;Bowl of Flour
+252;Bowl of Dough
+253;Bowl of Gooseberries
+254;Bowl of Rabbit
+255;Bowl of Minced Rabbit
+256;Bowl of Gooseberries And Rabbit
+257;Bowl of Gooseberries, Rabbit, and Carrot
+258;Bowl of Gooseberries and Carrot
+259;Bowl of Mashed Berries, Rabbit, and Carrot
+260;Bowl of Mashed Berries and Carrot
+261;Bowl of Mashed Berries and Rabbit
+262;Bowl of Rabbit and Carrot
+263;Bowl of Mashed Rabbit and Carrot
+264;Raw Pie Crust
+265;Raw Berry Pie
+266;Raw Berry Carrot Pie
+267;Raw Berry Carrot Rabbit Pie
+268;Raw Carrot Pie
+269;Raw Carrot Rabbit Pie
+270;Raw Rabbit Pie
+271;Raw Berry Rabbit Pie
+272;Cooked Berry Pie
+273;Cooked Carrot Pie
+274;Cooked Rabbit Pie
+275;Cooked Berry Carrot Pie
+276;Cooked Berry Rabbit Pie
+277;Cooked Rabbit Carrot Pie
+278;Cooked Berry Carrot Rabbit Pie
+279;Empty Wild Gooseberry Bush
+281;Wood-filled Adobe Kiln
+282;Firing Adobe Kiln
+283;Wooden Tongs with Fired Bowl
+284;Wet Bowl in Wooden Tongs
+285;Wet Clay Nozzle
+286;Clay Nozzle
+287;Bellows Without Nozzle
+288;Bellows
+289;Iron Ore in Wooden Tongs
+290;Iron Ore
+291;Flat Rock
+292;Basket
+293;Firing Adobe Kiln Sealed
+294;Sealed Adobe Kiln
+295;Wet Nozzle in Wooden Tongs
+296;Fired Nozzle in Wooden Tongs
+297;Threshed Wheat#straw removed
+298;Basket of Charcoal
+299;Adobe Kiln with Charcoal
+300;Big Charcoal Pile#3
+301;Small Charcoal Pile#2
+302;Charcoal#1
+303;Forge
+304;Firing Forge
+305;Forge with Charcoal
+307;Hot Iron Bloom
+308;Hot Iron Bloom in Wooden Tongs
+309;Hot Iron Bloom on Flat Rock
+310;Cold Iron Bloom
+311;Cold Iron Bloom in Wooden Tongs
+312;Cold Iron Bloom on Flat Rock
+313;Wrought Iron on Flat Rock
+314;Wrought Iron
+316;Crucible with Iron and Charcoal
+317;Crucible with Iron
+318;Crucible with Charcoal
+319;Unforged Sealed Crucible
+320;Unforged Crucible in Wooden Tongs
+321;Hot Forged Crucible
+322;Forged Crucible
+323;Hot Crucible in Wooden Tongs
+324;Cool Crucible in Wooden Tongs
+325;Crucible with Steel
+326;Steel Ingot
+327;Wooden Tongs#cool steel ingot
+328;Hot Steel Ingot
+329;Hot steel Ingot in Wooden Tongs
+330;Hot Steel Ingot on Flat Rock
+331;Hot Steel Ax Head#flat rock
+332;Steel Ax Head on Flat Rock
+333;Steel Ax Head
+334;Steel Ax
+335;Steel Ingot on Flat Rock
+336;Basket of Soil
+338;Stump
+339;Chopped Tree#big,log
+340;Chopped Tree with Firewood#big,log,wood2
+341;Chopped Tree with Firewood#big,log,wood1
+342;Chopped Tree with Firewood#Small,wood2
+343;Chopped Tree with Firewood#Small,wood1
+344;Firewood
+345;Butt Log
+346;Large Slow Fire
+347;Male002 D
+350;Female003 D
+351;Female004 C
+352;Male005 D
+353;Female006 C
+354;Male007 C
+355;Male008 C
+356;Basket of Bones
+357;Bone Pile
+365;Touched Edge
+366;Edge
+367;@ Kindling Source
+382;Bowl of Water
+388;@ Pond Water Source
+389;Dry Gooseberry Bush
+390;Dead Gooseberry Bush
+391;Domestic Gooseberry Bush
+392;Languishing Domestic Gooseberry Bush
+393;Vigorous Domestic Gooseberry Bush
+394;@ Full Portable Water Source
+395;Carrot Seed Head
+396;Dry Planted Carrots
+398;Carrot Sprouts
+399;Wet Planted Carrots
+400;Carrot Row
+401;Seeding Carrots
+402;Carrot
+404;Wild Carrot
+405;@ Carrot
+406;Yew Tree
+408;Empty Clay Pit
+409;Clay Pit#partial
+410;Wormy Empty Fertile Soil Pit
+411;Fertile Soil Pit#partial
+412;@ Wet Canada Goose Pond
+416;Burnt Rabbit
+418;Wolf
+420;Shot Wolf
+421;Dead Wolf with Arrow
+422;Dead Wolf
+423;Skinned Wolf
+424;Skinless Wolf
+425;Wolf Skin
+426;Wolf Hat
+427;Attacking Wolf
+428;Attacking Shot Wolf
+429;Dying Shot Wolf
+432;Domestic Gooseberry
+433;Jason Test
+434;Wooden Box
+440;Hot Steel Hammer Head#flat rock
+441;Smithing Hammer
+442;Steel Hammer Head on Flat Rock
+443;Smithing Hammer Head
+444;Hot Steel Adze Head#flat rock
+445;Hot Steel Chisel#flat rock
+446;Hot Steel Froe Blade#flat rock
+447;Hot Steel File Blank#flat rock
+448;Hot Steel Blade Blank#flat rock
+449;Steel Froe Blade#flat rock
+450;Steel File Blank#flat rock
+451;Steel Chisel#flat rock
+452;Steel Blade Blank#flat rock
+453;Steel Adze Head#flat rock
+454;Steel Adze Head
+455;Steel Chisel
+456;Steel Froe Blade
+457;Steel File Blank
+458;Steel File
+459;Steel Blade Blank
+460;Steel Saw Blade
+461;Bow Saw
+462;Steel Adze
+463;Steel Froe
+464;Oiled File Blank
+465;Oiled File Blank with Chisel
+466;Steel File with Chisel
+467;Mallet
+468;Froe Wedged In Log
+469;Boards with Froe
+470;Boards
+471;Wooden Sledge
+472;Wooden Disks
+473;Wooden Disk
+474;Flint-tipped Bow Drill
+475;Wooden Wheel
+483;Wheelbarrow
+484;Hand Cart
+485;Wooden Floor
+486;Floor Stakes
+487;Home Marker
+488;Long Play Phonorecord Album
+489;Phonorecord Sleeve
+490;Long Play Phonorecord
+491;Phonograph
+492;Playing Phonograph
+493;Yew Bow#just shot
+494;@ Yew Bow
+495;Crucible with Scrap Steel
+496;Dug Stump
+497;Dug Sapling Stump
+498;Dug Gooseberry Bush
+499;Hot Steel Shovel Head#flat rock
+500;Steel Shovel Head#flat rock
+501;Steel Shovel Head
+502;Shovel
+503;Dug Big Rock
+504;Split Big Rock#right
+505;Split Big Rock#left
+506;Split Big Rock
+507;@ Diggable Live Berry Bush
+508;Dug Big Rock with Chisel
+509;Pond with Dead Goose
+510;Pond with Dead Goose#arrow
+511;Pond
+512;Dry Pond
+513;Flooded Pond
+514;Dead Canada Goose
+515;Plucked Canada Goose
+516;Skewered Goose
+517;Cooked Goose
+518;Cooked Goose
+519;@ Food Burner
+520;Burnt Goose
+521;Burnt Goose
+522;Goose Bones
+524;@ Edible Pie
+527;Willow Tree
+530;Bald Cypress Tree
+531;Mouflon
+532;Mouflon with Lamb
+534;Mouflon Lamb
+536;Shot Mouflon with Lamb#arrow
+537;Shot Mouflon with Lamb#no arrow
+538;Dead Mouflon#no arrow
+539;Shot Mouflon#arrow
+540;Mouflon Lamb#rope
+541;Domestic Mouflon
+542;Domestic Lamb
+543;Domestic Lamb#rope
+544;Domestic Mouflon with Lamb
+545;Domestic Lamb#just left parent
+546;Split Big Rock#chisel
+547;Bowl of Carrot
+548;Bowl of Mashed Carrot
+549;Fence
+550;Fence
+551;Fence
+553;East-West Fence Holes
+554;North-South Fence Holes
+555;Corner Fence Holes
+556;Fence Kit
+557;Two Shafts
+558;Open Fence
+559;Steel Blade
+560;Knife
+561;@ Skinning Tool
+562;Skinned Mouflon
+563;Skinned Mouflon#with hide
+564;Mouflon Hide
+565;Butchered Mouflon
+566;Mouflon Bones
+567;Two Steel Blade
+568;Shears
+569;Raw Mutton
+570;Cooked Mutton
+571;Basket of Mouflon Bones
+572;Mouflon Bones#dumped
+573;Arrow#just pulled
+575;Domestic Sheep
+576;Shorn Domestic Sheep
+577;Shorn Domestic Sheep
+578;Fleece
+579;Drop Spindle
+580;Big Ball of Yarn
+581;Small Ball of Yarn
+582;Huge Ball of Yarn
+583;Knitting Needles
+584;Wool Hat
+585;Wool Sweater
+586;Wool Booty
+587;Butchered Sheep
+588;Sheep Bones
+589;Sheep Bones#dumped
+590;Basket of Sheep Bones
+591;Skinned Sheep#with hide
+593;Sheep Skin
+595;Dead Sheep
+596;Skinned Sheep
+597;Dead Sheep#shorn
+598;Dead Sheep#shorn fleece
+599;Dead Domestic Mouflon
+600;Domestic Sheep with Lamb
+601;Fed Mouflon Lamb
+602;Fed Domestic Lamb
+603;Hungry Mouflon Lamb
+604;Hungry Domestic Lamb
+605;Dead Mouflon Lamb
+606;Dead Domestic Lamb
+608;Domestic Lamb#rope fed
+609;Fed Domestic Lamb#post hungry
+610;Fed Mouflon Lamb#post hungry
+612;@ Lamb Food Bowl
+613;Domestic Lamb#rope fed post hungry
+614;Fed Shorn Domestic Sheep
+615;Eaten Carrot Row
+616;Sheep Eating Carrot Row
+617;Small Trash Pit
+618;Filled Small Trash Pit
+619;@ Small Trash
+620;Small Trash Pit with Stakes
+621;Filled Small Trash Pit with Stakes
+622;Pit Stakes
+623;Dry Compost Pile
+624;Composted Soil
+625;Wet Compost Pile
+626;@ Planted Stakes
+627;Parts
+628;Grizzly Bear
+630;Bear Cave
+631;Hungry Grizzly Bear
+632;Shot Grizzly Bear#1
+635;Shot Grizzly Bear#2
+637;Shot Grizzly Bear#3
+639;Dead Grizzly Bear#3
+641;Dead Grizzly Bear#2
+642;Dead Grizzly Bear#1
+643;Dead Grizzly Bear#0
+644;Dying Shot Grizzly Bear#3
+645;Fed Grizzly Bear
+646;@ Unshot Grizzly Bear
+647;Bear Cave#waking
+648;Bear Cave#awake
+649;Bear Cave#empty just left
+650;Bear Cave#empty
+653;Hungry Grizzly Bear#attacking
+654;Shot Grizzly Bear#1 attacking
+655;Shot Grizzly Bear#2 attacking
+656;Bear Skin Rug
+657;Skinned Bear#with hide
+658;Skinned Bear
+659;Bucket
+660;Full Bucket
+661;Stone Pile
+662;Shallow Well
+663;Deep Well
+664;Dry Shallow Well
+665;Dry Deep Well
+666;Stanchion Kit
+667;Bear Skin
+668;Boards with Bearskin
+669;@ Empty Portable Water Source
+670;Empty Cistern#just built
+671;Full Cistern
+672;Cistern
+673;Empty Cistern
+674;Limestone
+675;Bowl of Limestone
+676;Bowl of Quicklime
+677;Bowl of Plaster
+678;Limestone Bowl in Wooden Tongs
+679;Quicklime Bowl in Wooden Tongs
+680;Gold Vein
+681;Gold Flakes#just mined
+682;Hot Steel Mining Pick#flat rock
+683;Steel Mining Pick#flat rock
+684;Steel Mining Pick
+685;Steel Mining Pick Head
+686;Bowl of Gold Flakes
+687;Bowl with Gold Ingot
+688;Gold Flakes#dumped
+689;Gold Ingot
+690;Bowl of Gold in Wooden Tongs
+691;Bowl with Gold Ingot in Wooden Tongs
+692;Crown Blank
+693;Carrot Crown
+694;Leaf Crown
+695;Wolf Crown
+696;@ New Scrap Steel
+697;Crown Blank with Leaf
+698;Crown Blank with Carrot
+699;Crown Blank with Wolf Skin
+700;Leaf Crown with Leaf
+701;Carrot Crown with Carrot
+702;Wolf Crown with Wolf Skin
+703;Penguin
+705;Penguin#slide
+706;Ice Hole
+707;Antarctic Fur Seal
+708;Clubbed Seal
+709;Skinned Seal#with fur
+710;Skinned Seal#no fur
+711;Seal Skin
+712;Sealskin Coat
+713;Indigo
+714;Rose Madder
+715;Rose Madder Root
+716;Indigo Bundle
+717;Ice Hole#seal in
+718;Ice Hole#penguin in
+719;Ice Hole#seal out
+720;Ice Hole#penguin out
+721;Ice Hole#animal just left
+722;@ Shallow Digger
+723;@ Rough Cutter
+724;Boards with Disk
+725;Indigo Wool Sweater
+726;Red Wool Sweater
+729;Alum
+730;Simmering Water
+731;Simmering Dye Mordant
+732;Ashes with Bowl
+733;Simmering Indigo Dye
+734;Simmering Rose Madder Dye
+735;@ Simmering Liquid
+736;Dye-Ready Wool Booty
+737;Dye-Ready Wool Hat
+738;Dye-Ready Wool Sweater
+739;Indigo Wool Booty
+740;Red Wool Booty
+741;Red Wool Hat
+742;Indigo Wool Hat
+749;Yew Bow#just murdered
+750;Bloody Knife
+752;Murder Grave
+753;Adobe Rubble
+754;Damp Adobe Wall
+755;Soft Adobe Wall
+756;Damp Adobe Wall
+757;Damp Adobe Wall
+758;Soft Adobe Wall
+759;Soft Adobe Wall
+760;Dead Tree
+761;Barrel Cactus
+762;Flowering Barrel Cactus
+763;Fruiting Barrel Cactus
+764;Rattle Snake
+765;Snake Skin
+766;Snake Skin Boot
+767;Lasso
+768;Cactus Fruit
+769;Wild Horse
+770;Riding Horse
+771;Captured Horse
+772;Hitched Wild Horse
+773;Hitched Tame Horse
+774;Hitched Riding Horse
+775;Escaped Riding Horse
+776;Sheepskin Saddle
+778;Horse-Drawn Cart
+779;Hitched Horse-Drawn Cart
+780;Escaped Horse-Drawn Cart
+782;Filled Empty Trash Pit
+783;@ Partial Adobe Build
+784;Stone Pile#rubble
+785;@ Stone Rubble Sources
+787;Worm Pit
+788;Wormless Soil Pit
+789;Worm
+790;Composting Compost Pile
+791;Monolith
+792;Full Monolith
+793;The Apocalypse
+794;Crowned Wild Horse
+795;Crowned Captured Horse
+796;Crowned Wild Horse
+797;Wound Blood
+798;Arrow Wound
+799;Staked Gooseberry Bush
+800;Moist Staked Gooseberry Bush
+801;Dug Gooseberry Bush with Stakes
+802;Raw Mutton Pie
+803;Cooked Mutton Pie
+804;Burdock
+805;Wild Onion
+806;Dug Burdock
+807;Burdock Root
+808;Wild Onion
+809;Tower Bell
+810;Two Gold Ingots
+811;Split Big Rock with Chisel
+812;Stone Block
+813;Stone Block with Chisel
+814;Half Bell Tower Base
+815;Unstable Bell Tower Base#1.2
+816;Stable Bell Tower Base#1
+818;Unstable Bell Tower Base#2.2 monumentStep
+819;Unstable Bell Tower Base#2.1 monumentStep
+820;Stable Bell Tower Base#2
+822;Unstable Bell Tower Base#3.1 monumentStep
+823;Unstable Bell Tower Base#3.2 monumentStep
+824;Stable Bell Tower Base#3
+825;Unstable Bell Tower Base#4.1 monumentStep
+826;Unstable Bell Tower Base#4.2 monumentStep
+827;Stable Bell Tower Base#4
+828;Unstable Bell Tower Base#5.1 monumentStep
+829;Unstable Bell Tower Base#5.2 monumentStep
+830;Stable Bell Tower Base#5
+831;Unstable Bell Tower Base#6.1 monumentStep
+832;Unstable Bell Tower Base#6.2 monumentStep
+833;Stable Bell Tower Base#6
+834;Bell Tower Structure# monumentStep
+835;Bell Tower# monumentDone
+836;Tower Bell with Rope
+837;Psilocybe Mushroom# remapStart
+838;Wormless Soil Pit with Mushroom
+839;Bell Tower# monumentCall
+840;Stuck Bell Tower
+841;Bell Tower# just rang
+842;Bell Tower# ready to ring
+843;Stone Block#justDug
+844;Fruit Boot
+845;Floppy Basket
+846;Broken Hand Cart
+847;Broken Skewer
+848;Hardened Row
+849;@ Row Tiller
+850;Stone Hoe
+851;Broken Stone Tool
+852;Weak Skewer
+853;@ Non-tilling Skewer
+854;Hot Steel Hoe Blade#flat rock
+855;Steel Hoe Blade
+856;Steel Hoe Blade on Flat Rock
+857;Steel Hoe
+858;Broken Steel Tool
+859;Broken Small Stone Tool
+860;Broken Basket
+861;Old Hand Cart
+862;Broken Steel Tool# no wood
+863;Broken Wood Tool
+864;Rag Hat
+865;Rag Shirt
+866;Rag Loincloth
+869;Rag Shoe
+870;@ Decaying Hat
+871;@ Decaying Shirt
+872;@ Decaying Bottom
+873;@ Decaying Shoe
+874;Tattered Backpack
+875;Wooden Door
+876;Wooden Door# Installed
+877;Wooden Door# installed vert
+878;Open Wooden Door# installed
+879;Open Wooden Door# installed vert
+880;Big Stack of Boards
+881;Cut Stones
+882;Split Big Rock with Chisel
+883;Cut Stones with Chisel
+884;Stone Floor
+885;Stone Wall
+886;Stone Wall
+887;Stone Wall
+888;Bear Skin Rug# stone
+889;Cracking Adobe Wall
+890;Cracking Adobe Wall
+891;Cracking Adobe Wall
+892;Fixed Adobe Wall
+893;Fixed Adobe Wall
+894;Fixed Adobe Wall
+895;Ancient Stone Wall
+896;Ancient Stone Wall
+897;Ancient Stone Wall
+898;Ancient Stone Floor
+899;Sheep Dung
+900;Shovel of Dung
+901;Wormy Hardened Row
+902;Tilled Row with Worm
+903;@ Tillable Row
+904;Lock Blank
+905;Lock Blank with Chisel
+906;Steel Ingot with Chisel
+907;Steel Blade Blank with Chisel
+908;Lock and Key Parts
+910;Lock and Key Parts with Chisel
+911;Lock and Key Blank
+912;Lock and Key $10
+917;Key $10
+921;Locked Wooden Door# $10
+922;Locked Wooden Door# vert $10
+923;Open Locked Wooden Door# vert $10
+924;Open Locked Wooden Door# $10
+927;Steel Blade Blank with Key $10
+928;Duplicate Keys $10
+929;@ Decaying Basket
+930;Clump of Scrap Steel
+931;@ Broken Steel Source
+932;@ Weak Chisel Breaker
+933;Fence# just closed
+934;Fence Rail
+935;Sapling with Cutting
+936;Sapling Cutting
+937;Dry Sapling Cutting
+938;Wet Sapling Cutting
+939;Domestic Sapling
+940;Cut Domestic Sapling Skewer
+941;Domestic Sapling with Cutting
+942;Iron Vein
+943;Iron Pit
+944;Iron Mine
+945;Collapsed Iron Mine
+946;Letter Stock
+947;Letter I
+948;Hyphen
+949;Letter V
+950;Bendy Letter Stock
+951;Letter U
+952;Letter C
+953;Letter O
+955;Letter B
+956;Letter A
+957;Letter D
+958;Letter T
+959;Letter F
+960;Letter E
+961;Letter G
+962;Letter H
+963;Letter J
+964;@ Fine Cutter
+965;Letter K
+966;Letter L
+967;Letter W
+968;Letter N
+969;Letter M
+970;Letter P
+971;Letter R
+972;Letter Q
+973;Letter S
+974;Letter X
+975;Letter Y
+976;Letter Z
+977;Small Sign
+978;Big Sign
+979;Loose Small Sign
+980;Loose Big Sign
+981;Small Sign on Stone Wall
+982;Big Sign on Stone Wall
+983;Small Sign on Ancient Stone Wall
+984;Big Sign on Ancient Stone Wall
+985;@ Weak Froe Breaker
+986;Open Wooden Chest
+987;Closed Wooden Chest
+988;Locked Wooden Chest# $10
+989;Unlocked Wooden Chest# $10
+990;Locked Small Sign# $10
+991;Locked Big Sign# $10
+992;Loose Locked Small Sign# $10
+993;Loose Locked Big Sign# $10
+994;Locked Small Sign on Stone Wall# $10
+995;Locked Big Sign on Stone Wall# $10
+996;Locked Small Sign on Ancient Stone Wall# $10
+997;Locked Big Sign on Ancient Stone Wall# $10
+998;@ Unlocked Sign
+999;@ Locked Sign
+1000;Lock and Key $10# removed
+1001;@ Free Lock
+1002;Duplicate Lock and Key $10
+1003;Lock Removal Key $10
+1004;Staked Milkweed Stump
+1005;Moist Staked Milkweed Stump
+1006;Clay Bowl#bender
+2000;MAGICTEST
+30000;WOLVEN
+30001;Dung Pile

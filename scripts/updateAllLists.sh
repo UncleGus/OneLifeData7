@@ -1,0 +1,3 @@
+node updateObjectList.js
+node updateTransitionList.js
+node updateCategoryList.js
