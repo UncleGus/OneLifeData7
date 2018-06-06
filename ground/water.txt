@@ -1,5 +1,6 @@
 waterBiome=100
 waterScale=5
+biomeScale=0.83332
 waterLength=64
 waterSpawnId=1109
 waterSouthToNorth=1093
