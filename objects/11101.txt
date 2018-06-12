@@ -1,5 +1,5 @@
-id=1104
-waterEastToSouth
+id=11101
+waterNorthToWest
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -28,16 +28,16 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=2
 spriteID=15000
-pos=0.000000,-12.000000
-rot=-0.500000
+pos=0.000000,12.000000
+rot=0.000000
 hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=261
-pos=8.000000,-16.000000
-rot=1.145000
+pos=-7.000000,14.000000
+rot=1.140000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -50,4 +50,4 @@ frontFootIndex=-1
 numUses=0,0.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=44
+pixHeight=68
