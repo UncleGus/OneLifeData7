@@ -1,1 +1,1 @@
-streamtest8 0 0 0
+streamcorner 0 0 0
