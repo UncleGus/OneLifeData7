@@ -1,3 +1,0 @@
-70002 70002 0 0.000000 0.000000 0 0 0 1
-
-##gold coin 6 fix, splits to stacks of three

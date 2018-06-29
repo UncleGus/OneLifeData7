@@ -1,0 +1,3 @@
+3507 4286 0 0.000000 0.000000 0 0 0 1 0 0
+
+##2B gets fruit if a B pollen gets to it

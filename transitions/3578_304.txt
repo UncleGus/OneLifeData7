@@ -1,0 +1,3 @@
+3577 304 0 0.000000 0.000000 0 0 0 1
+
+##copper ingot in wooden tongs + firing forge = hot copper ingot in tongs + firing forge
