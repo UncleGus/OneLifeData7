@@ -24,7 +24,7 @@ clothingOffset=-35.000000,4.000000
 deadlyDistance=1
 stunDistance=0
 useDistance=1
-sounds=695:0.250000,898:0.241667,-1:0.0,-1:0.0
+sounds=695:0.250000,898:0.241667,-1:0.0,695:0.250000
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
