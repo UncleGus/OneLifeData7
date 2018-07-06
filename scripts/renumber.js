@@ -9,6 +9,7 @@ if (!process.argv[3]) {
 
 const startNumber = Number(process.argv[2]);
 const offset = Number(process.argv[3]);
+let highestId = 0;
 
 console.log('Reading object files');
 const objectFileList = execSync('ls ../objects').toString().split('\n');
@@ -21,6 +22,7 @@ for (const file of objectFileList) {
     }
     const fileContent = fs.readFileSync(`../objects/${file}`).toString();
     const id = fileContent.match(/id=(\d+)?\n/);
+    highestId = Number(id[1]) > highestId ? Number(id[1]) : highestId;
     if (Number(id[1]) > startNumber) {
         objectFileNames.push(file.replace(id[1], Number(id[1]) + offset));
         objectFileContents.push(fileContent.replace(`id=${id[1]}`, `id=${Number(id[1]) + offset}`));
@@ -35,6 +37,7 @@ console.log('Writing object files');
 for (let i=0; i< objectFileNames.length; i++) {
     fs.writeFileSync(`../objects/${objectFileNames[i]}`, objectFileContents[i]);
 }
+fs.writeFileSync(`../objects/nextObjectNumber.txt`, Number(highestId) + 1);
 
 console.log('Reading category files');
 const categoryFileList = execSync('ls ../categories/').toString().split('\n');
