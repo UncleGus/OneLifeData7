@@ -21,7 +21,7 @@ for (const file of objectFileList) {
         continue;
     }
     const fileContent = fs.readFileSync(`../objects/${file}`).toString();
-    const id = fileContent.match(/id=(\d+)?\n/);
+    const id = fileContent.match(/id=(\d+)?\r?\n/);
     if (Number(id[1]) > startNumber) {
         objectFileNames.push(file.replace(id[1], Number(id[1]) + offset));
         objectFileContents.push(fileContent.replace(`id=${id[1]}`, `id=${Number(id[1]) + offset}`));
@@ -49,16 +49,16 @@ for (const file of categoryFileList) {
         continue;
     }
     let fileContent = fs.readFileSync(`../categories/${file}`).toString();
-    const id = fileContent.match(/parentID=(\d+)?\n/);
+    const id = fileContent.match(/parentID=(\d+)?\r?\n/);
     if (Number(id[1]) >= startNumber) {
         categoryFileNames.push(file.replace(id[1], Number(id[1]) + offset));
         fileContent = fileContent.replace(`parentID=${id[1]}`, `parentID=${Number(id[1]) + offset}`)
     } else {
         categoryFileNames.push(`${id[1]}.txt`);
     }
-    const categoryMembers = fileContent.match(/\n\d*/g);
+    const categoryMembers = fileContent.match(/\r?\n\d*/g);
     for (const member of categoryMembers) {
-        const idMatch = member.match(/\n(\d+)/);
+        const idMatch = member.match(/\r?\n(\d+)/);
         if (idMatch && Number(idMatch[1]) > startNumber ) {
             fileContent = fileContent.replace(`\n${idMatch[1]}`, `\n${Number(idMatch[1]) + offset}`);
         }
