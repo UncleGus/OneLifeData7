@@ -22,10 +22,10 @@ for (const file of objectFileList) {
     }
     const fileContent = fs.readFileSync(`../objects/${file}`).toString();
     const id = fileContent.match(/id=(\d+)?\n/);
-    highestId = Number(id[1]) > highestId ? Number(id[1]) : highestId;
     if (Number(id[1]) > startNumber) {
         objectFileNames.push(file.replace(id[1], Number(id[1]) + offset));
         objectFileContents.push(fileContent.replace(`id=${id[1]}`, `id=${Number(id[1]) + offset}`));
+        highestId = Number(id[1]) + offset > highestId ? Number(id[1]) + offset : highestId;
     } else {
         objectFileNames.push(`${id[1]}.txt`);
         objectFileContents.push(fileContent);
